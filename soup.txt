@@ -1,0 +1,3991 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<link href="https://www.woodcocks.us/refrigeration/french-door/french-door-bottom-freezer-refrigerators/WRF560SEHV/?hl=en-US&amp;gl=us" hreflang="en" rel="alternate"/>
+<!-- Google Tag Manager -->
+<!-- Google tag (gtag.js) as per https://retailerwebservices.monday.com/boards/6518620355/pulses/7600997837 -->
+<script async="" data-linkindex="0" href="https://www.googletagmanager.com/gtag/js?id=AW-11361619495" notapplicable"="" src="&lt;a data-auth=" target="_blank">https://www.googletagmanager.com/gtag/js?id=AW-11361619495</a>"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-11361619495');
+</script>
+<!-- End Google Tag Manager -->
+<!-- start google analytics head code -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-123456-98', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VY2HJ014ED"></script>
+<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-VY2HJ014ED'); </script>
+<!-- finish google analytics head code -->
+<meta content="mdh2EwfMZ8von4TsOGdDniGkJpMcoGi2fAXcoeLv4mc" name="google-site-verification"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>WRF560SEHV Whirlpool 30-inch Wide French Door Refrigerator - 20 cu. ft.  |  Woodcocks</title>
+<link href="https://www.woodcocks.us/refrigeration/french-door/french-door-bottom-freezer-refrigerators/WRF560SEHV/?hl=en-US&amp;gl=us" rel="canonical"/>
+<!-- Author -->
+<meta content="Site on Time - https://siteontime.com" name="author"/>
+<!-- Favicon -->
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+<!-- minified js and css files -->
+<link href="/min/g=newCssHead&amp;1744627302" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://images.webfronts.com" rel="dns-prefetch"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K96CPMXL');</script>
+<!-- End Google Tag Manager -->
+<script src="/min/g=newJsHead&amp;1709944975" type="text/javascript"></script>
+<meta content="width=device-width" id="p7ISM" name="viewport"/>
+<meta content="WRF560SEHV by Whirlpool. Move these adjustable bins anywhere in the door for increased loading flexibility when and where you need it." name="description"/>
+<style type="text/css">
+    /* .bar1::after{
+      max-width: 44%;
+    }
+
+    .bar2::after{
+      max-width: 30%;
+    }
+
+    .bar3::after{
+      max-width: 16%;
+    }
+
+    .bar4::after{
+      max-width: 4%;
+    }
+
+    .bar5::after{
+      max-width: 6%;
+    }
+    @media only screen and (max-width: 768px) {
+      .ism-panels-3.mobile-product-scroller .ism-panel {min-width: 33.33% !important;}
+    } */
+  </style>
+<link href="/_scr/slick/slick.css" rel="stylesheet" type="text/css">
+<link href="/_scr/slick/slick-theme.css" rel="stylesheet" type="text/css">
+<script>
+    _affirm_config = {
+        public_api_key: "J1OG2UG5Y659WFRT",
+        script: "https://cdn1.affirm.com/js/v2/affirm.js",
+    };
+    (function(l,g,m,e,a,f,b){var d,c=l[m]||{},h=document.createElement(f),n=document.getElementsByTagName(f)[0],k=function(a,b,c){return function(){a[b]._.push([c,arguments])}};c[e]=k(c,e,"set");d=c[e];c[a]={};c[a]._=[];d._=[];c[a][b]=k(c,a,b);a=0;for(b="set add save post open empty reset on off trigger ready setProduct".split(" ");a<b.length;a++)d[b[a]]=k(c,e,b[a]);a=0;for(b=["get","token","url","items"];a<b.length;a++)d[b[a]]=function(){};h.async=!0;h.src=g[f];n.parentNode.insertBefore(h,n);delete g[f];d(g);l[m]=c})
+    (window,_affirm_config,"affirm","checkout","ui","script","ready");
+    </script>
+<style type="text/css">
+<!--
+
+
+-->
+</style>
+<!-- Meta Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '762511888107228');fbq('track', 'PageView');
+    </script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=762511888107228&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!-- End Meta Pixel Code -->
+<meta content="CEIbxCaLEkcLyLDy9uVI9l0Auj2l1IeGisF3zZzWJBE" name="google-site-verification">
+<style>
+        #overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+        #popup {
+            display: none;
+            position: fixed;
+            max-width: 687px;
+            max-height: 464px;
+            top: 35%;
+            left: 4%;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            z-index: 1000;
+            text-align: center;
+        }
+
+        #close-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            cursor: pointer;
+            color: #fff;
+        }
+
+        .close-icon {
+            width: 30px;
+            height: 30px;
+            background-color: #000;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            font-size: 35px;
+        }
+
+
+        #popup h2 {
+            font: normal normal bold 31px/38px Helvetica Neue;
+            margin: 10px auto 7px !important;
+        }
+        #popup h3 {
+            margin: 0px auto 7px 0px;
+            font: normal normal normal 31px/38px Helvetica Neue;
+        }
+
+        #popup p {
+            margin-bottom: 7px;
+            margin-block-start: 0 !important;
+            margin-block-end: 0 !important;
+            padding: 0px 103px 7px;
+            font: normal normal normal 17px/20px Helvetica Neue;
+        }
+
+
+        /* Style for the image */
+        #popup img {
+            max-height: 50%;
+            height: auto;
+            max-width: 687px;
+        }
+
+        #popup form {
+            margin: 16px 14px;
+            padding: 16px 55px;
+            border: 1px solid #ffffff
+        }
+
+        #popup .coupon {
+            width:100%;
+        }
+
+        #popup .coupon .email-signup-success {
+            text-align: center;
+            margin:16px 14px;
+            border: 1px solid #ffffff;
+        }
+
+        .coupon .promo-code {
+            border: 1px solid white;
+            display:inline-block;
+            padding: 5px 25px 5px!important;
+        }
+
+        /* Media query for smaller screens, such as smartphones */
+        @media only screen and (max-width: 600px) {
+            #popup {
+                top: 5%;
+                left: 0%;
+            }
+
+            #popup p {
+                padding: 0;
+            }
+
+            #popup .email-signup, .email-signup-success {
+                padding: 0;
+            }
+
+        }
+
+        /* Media query for medium-sized screens, like tablets */
+        @media only screen and (min-width: 601px) and (max-width: 1024px) {
+            #popup {
+                left: 0%;
+            }
+        }
+
+        /* Media query for larger screens, like desktops and laptops */
+        @media only screen and (min-width: 1025px) {
+            #popup .email-signup, .email-signup-success{
+                padding: 0;
+            }
+        }
+
+        #mce-EMAIL {
+            width: 374px;
+            height: 49px;
+            border-radius: 0;
+        }
+        #mc-embedded-subscribe {
+            background-color: #be1515;
+            font-size: 18px;
+            font-weight: 700;
+            line-height: 24px;
+            text-transform: uppercase;
+            border: none;
+            border-radius: 0;
+            width: 149px;
+            height: 49px;
+            margin: 0 !important;
+        }
+    </style>
+</meta></link></link></head>
+<body>
+<style>
+  .pure-menu a {
+    color: #fff;
+    text-decoration: none;
+}
+</style>
+<!-- start google tag manager body code -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-K96CPMXL" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- end google tag manager body code -->
+<div class="pure-g">
+<!-- start mobile headers -->
+<div class="pure-u-1">
+<div class="mobile-header desktop-hide">
+<div class="top">
+<ul class="mobile-menu-icons">
+<li>
+<a href="/login/?next=%2Fmy-account%2F">
+<img alt="Account" src="/_site-files/img/mobile/m-account-circle-outline.png"/>
+<span>Account</span>
+</a>
+</li>
+<li>
+<a href="/stores/">
+<img alt="Find a Store near you" src="/_site-files/img/mobile/m-location-icon.svg"/>
+<span>Location</span>
+</a>
+</li>
+<li>
+<a href="tel:+1-305-200-5204">
+<img alt="Call Us" src="/_site-files/img/mobile/m-phone-icon.svg"/>
+<span>Contact</span>
+</a>
+</li>
+</ul>
+<ul class="mobile-social-icons">
+<li class="pure-menu-item"><a class="pure-menu-link pure-hover-light-grey" href="https://www.linkedin.com/company/woodcocks" rel="nofollow noreferrer" target="_blank"><img alt="LinkedIn " height="23" src="/uploads/slides/Footer Social Icons/iconin.png" width="23"/></a></li><li class="pure-menu-item"><a class="pure-menu-link pure-hover-light-grey" href="https://www.facebook.com/profile.php?id=100085429684197" rel="nofollow noreferrer" target="_blank"><img alt="Facebook" height="23" src="/uploads/slides/Footer Social Icons/iconfb.png" width="23"/></a></li><li class="pure-menu-item"><a class="pure-menu-link pure-hover-light-grey" href="https://instagram.com/woodcocks.us?igshid=MzRlODBiNWFlZA==" rel="nofollow noreferrer" target="_blank"><img alt="Instagram" height="23" src="/uploads/slides/Footer Social Icons/iconig.png" width="23"/></a></li><li class="pure-menu-item"><a class="pure-menu-link pure-hover-light-grey" href="https://www.youtube.com/channel/UCHOeikdvR9Tq3vqpS9diNOA" rel="nofollow noreferrer" target="_blank"><img alt="YouTube" height="23" src="/uploads/slides/Footer Social Icons/iconyt.png" width="23"/></a></li> </ul>
+</div>
+<div class="center">
+<div class="pure-g">
+<div class="pure-u-1-8 mobile-header-navigation">
+<a class="ddm-burger" href="#" id="p7DDMtb_10" title="Hide/Show Menu"><img alt="Hide/Show Menu" height="34" src="/_site-files/img/mobile/m-bm-icon.svg" width="34"/></a>
+</div>
+<div class="pure-u-7-8 pure-u-padding-top pure-u-padding-bottom mobile-header-logo">
+<!-- <a href="/" class="pure-menu-heading pure-menu-link pure-hover-white logo-home-link"><img src="http://www.woodcocks.us/uploads/files/logo-woodcocks.png" alt="Woodcocks Appliances Home Page" width="300" height="69" class="pure-img"/> -->
+<a class="pure-menu-heading pure-menu-link pure-hover-white logo-home-link" href="/"><img alt="Woodcocks Appliances Home Page" class="pure-img" height="69" src="/_site-files/img/homepage/logo-woodcocks.png" width="300"/>
+</a>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="pure-g">
+<div class="pure-u-1-2">
+<h3 class="secure"><a href="/stores/">SE HABLA ESPAÑOL</a></h3>
+</div>
+<div class="pure-u-1-2">
+<a class="pure-menu-link pure-button-black pure-hover-grey-dark pure-button-small pure-button-pill menu-cart" href="#"><img src="/_site-files/img/homepage/icon-cart.svg"/><span>Cart: <strong id="num-cart-items">0</strong></span></a>
+</div>
+<div class="pure-u-1">
+<form action="/search/" class="pure-form" id="product-search" method="get" name="product-search">
+<input autocapitalize="off" autocomplete="off" autocorrect="off" class="pure-input-1" id="desktop-search" name="q" spellcheck="false" title="Search for Products" type="text" value=""/>
+<input name="filter" type="hidden" value="true"/>
+<img src="/_site-files/img/homepage/icon-search.svg"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- finish mobile headers -->
+<!-- start desktop headers -->
+<!-- logo & main menu - centered -->
+<div class="pure-u-1 pure-u-centered desktop-menu pure-hidden-xs pure-hidden-sm desktop-header">
+<!-- logo header Sticky on desktop -->
+<div class="pure-g pure-g-vertical-center max-1920">
+<!-- header Top start -->
+<div class="pure-u-1 top">
+<div class="align-right">
+<ul class="headerSocialIcons">
+<li class="pure-menu-item">
+<a class="pure-menu-link pure-hover-light-grey" href="/login/?next=%2Fmy-account%2F">
+<img alt="Account" height="23" src="/_site-files/img/mobile/m-account-circle-outline.png" width="23"/>
+<span class="icon-text">Sign In</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<!-- header Top end -->
+<!-- header center start -->
+<div class="pure-u-1 center">
+<div class="pure-g">
+<div class="pure-u-md-3-24 pure-u-lg-3-24">
+<a class="pure-menu-heading pure-menu-link pure-hover-white logo-home-link" href="/">
+<!-- <img src="http://www.woodcocks.us/uploads/files/logo-woodcocks.png" alt="Woodcocks Appliances Home Page" width="300" height="69" class="pure-img"/> -->
+<img alt="Woodcocks Appliances Home Page" class="pure-img" height="69" src="/_site-files/img/homepage/logo-woodcocks.png" width="300">
+</img></a>
+</div>
+<div class="pure-u-md-14-24 pure-u-lg-16-24 pure-u-padding-left-xl pure-u-padding-right-xl">
+<ul class="pure-menu-list menu-list">
+<li class="pure-menu-item about-menu"><a class="pure-menu-link" href="/about-us/">About Us</a>
+<div class="about-menu-content" style="display:none;">
+<ul>
+<li class="pure-menu-item"><a class="pure-menu-link" href="/blog/">Blog</a></li>
+<!--<li class="pure-menu-item"><a href="#" class="pure-menu-link js-contact-us">Contact Us</a></li>-->
+<li class="pure-menu-item"><a class="pure-menu-link" href="/stores/">Store Info</a></li>
+</ul>
+</div>
+</li>
+<li class="pure-menu-item"><a class="pure-menu-link" href="/financing/">Financing</a></li>
+<!--<li class="pure-menu-item"><a href="/stores/" class="pure-menu-link">Store Info</a></li>-->
+<li class="pure-menu-item"><a class="pure-menu-link" href="/builder/">Builders</a></li>
+<li class="pure-menu-item promo-menu"><a class="pure-menu-link" href="/promotions/">Promotions</a>
+<div class="promo-menu-content" style="display:none;">
+<ul>
+<li class="pure-menu-item"><a class="pure-menu-link" href="/rebates/">Rebates</a></li>
+</ul>
+</div>
+</li>
+<li class="pure-menu-item"><a class="pure-menu-link" href="/luxury-appliances/">Luxury Appliances</a></li>
+<li class="pure-menu-item"><a class="pure-menu-link" href="/contact-us/">Contact Us</a></li>
+<!--<li class="pure-menu-item"><a href="#" class="pure-menu-link js-contact-us">Contact Us</a></li>-->
+<!--<li class="pure-menu-item"><a href="/blog/" class="pure-menu-link">Blog</a></li>-->
+</ul>
+</div>
+<div class="pure-u-md-7-24 pure-u-lg-5-24">
+<div class="right-form">
+<form action="/search/" class="pure-form" id="product-search" method="get" name="product-search">
+<input autocapitalize="off" autocomplete="off" autocorrect="off" class="pure-input-1" id="desktop-search" name="q" spellcheck="false" title="Search for Products" type="text" value=""/>
+<input name="filter" type="hidden" value="true"/>
+<img src="/_site-files/img/homepage/icon-search.svg"/>
+</form>
+<a class="pure-menu-link pure-button-black pure-hover-grey-dark pure-button-small pure-button-pill desktop-header-cart-totals menu-cart" href="#"><img src="/_site-files/img/homepage/icon-cart.svg"/><span>Cart: <strong id="num-cart-items">0</strong></span></a>
+</div>
+</div>
+</div>
+<!--<div class="pure-u-1-6 pure-u-lg-6-24 pure-hidden-md pure-u-left pure-u-padding-left-xl">
+          <p>7770 NW 46Th ST<br>DORAL,<br>FL 33166<br/>Phone: <a href="tel:+1-305-200-5204">(305) 200-5204</a></p>        </div> -->
+</div>
+<!-- header center end -->
+<div class="pure-u-1 desktop-navigation">
+<div class="pure-g pure-g-vertical-top">
+<div class="pure-u-2-3">
+<!-- header navigation start -->
+<div class="p7MGM-03 p7MGM p7MGMdesign-time responsive menu-centered" id="p7MGM_11">
+<div class="mgm-toolbar closed" id="p7MGMtb_11"> <a href="#" title="Hide/Show Menu">≡</a> </div>
+<ul class="mgm-root-list flex" id="p7MGMu_11" style="display: flex;">
+<li class="mgm-root-item mgm-trig mgm-classic float-none grow"> <a class="mgm-root-item mgm-trig mgm-menu" href="/refrigeration/" id="p7MGMa11_1">Refrigerators</a> </li>
+<li class="mgm-root-item mgm-trig mgm-classic float-none grow"> <a class="mgm-root-item mgm-trig" href="/cooking/" id="p7MGMa11_2">Cooking</a> </li>
+<li class="mgm-root-item mgm-trig mgm-classic float-none grow"> <a class="mgm-root-item mgm-trig" href="/laundry/" id="p7MGMa11_3">Laundry</a> </li>
+<li class="mgm-root-item mgm-trig mgm-classic float-none grow"> <a class="mgm-root-item mgm-trig" href="/dishwashers/" id="p7MGMa11_4">Dishwashers</a> </li>
+<li class="mgm-root-item mgm-trig mgm-classic float-none grow"> <a class="mgm-root-item mgm-trig" href="/air-conditioners/air-conditioners/" id="p7MGMa11_5">Air Control</a> </li>
+<li class="mgm-root-item mgm-trig mgm-classic float-none grow"> <a class="mgm-root-item mgm-trig" href="/grills-bbqs-outdoor-cooking/" id="p7MGMa11_6">BBQ</a> </li>
+<li class="mgm-root-item mgm-trig mgm-classic float-none grow"> <a class="mgm-root-item mgm-trig" href="/brands/" id="p7MGMa11_9">Shop By Brands</a> </li>
+<li class="mgm-root-item mgm-trig mgm-classic float-none grow"> <a class="mgm-root-item mgm-trig" href="/packages/" id="p7MGMa11_11">Packages</a> </li>
+</ul>
+<!--Start Sub menus-->
+<div class="mgm-mega-menu mgm-classic refrigeration" id="p7MGMs11_1">
+<div class="mgm-mega-content">
+<div class="p7mgm-row mgm-col-classic">
+<div class="p7mgm-ColContent">
+<div class="pure-g">
+<div class="pure-u-1">
+<h2 class="sub-title">Refrigeration</h2>
+<ul class="pure-menu-list">
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/refrigeration/side-by-side/">
+                          Side by Side                          </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/refrigeration/french-door/">
+                          French Door                          </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/refrigeration/bottom-freezer/">
+                          Bottom Freezer                          </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/refrigeration/top-mount/">
+                          Top Mount                          </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/refrigeration/built-in/">
+                          Built In                          </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/refrigeration/specialty/">
+                          Specialty                          </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/refrigeration/freezers/">
+                          Freezers                          </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/refrigeration/refrigerator-accessories/">
+                          Refrigerator Accessories                          </a> </li>
+</ul>
+<a href="/refrigeration/">All Refrigeration</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mgm-mega-menu mgm-classic cooking" id="p7MGMs11_2">
+<div class="mgm-mega-content">
+<div class="p7mgm-row mgm-col-classic">
+<div class="p7mgm-ColContent">
+<div class="pure-g">
+<div class="pure-u-1">
+<h2 class="sub-title">Cooking</h2>
+<ul class="pure-menu-list">
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/cooking/ranges/">
+                            Ranges                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/cooking/ovens/">
+                            Ovens                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/cooking/cooktops/">
+                            Cooktops                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/cooking/hoods/">
+                            Hoods                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/cooking/microwaves/">
+                            Microwaves                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/cooking/cooking-accessories/">
+                            Accessories                            </a> </li>
+</ul>
+<a href="/cooking/">All Cooking</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mgm-mega-menu mgm-classic laundry" id="p7MGMs11_3">
+<div class="mgm-mega-content">
+<div class="p7mgm-row mgm-col-classic">
+<div class="p7mgm-ColContent">
+<div class="pure-g">
+<div class="pure-u-1">
+<h2 class="sub-title">Laundry</h2>
+<ul class="pure-menu-list">
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/laundry/washers/">
+                            Washers                            </a></li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/laundry/dryers/">
+                            Dryers                            </a></li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/laundry/laundry-accessories/">
+                            Laundry Accessories                            </a></li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/laundry/stack-laundry/">
+                            Stack Laundry                            </a></li>
+</ul>
+<a href="/laundry/">All Laundry</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mgm-mega-menu mgm-classic dishwashers" id="p7MGMs11_4">
+<div class="mgm-mega-content">
+<div class="p7mgm-row mgm-col-classic">
+<div class="p7mgm-ColContent">
+<div class="pure-g">
+<div class="pure-u-1">
+<h2 class="sub-title">Dishwasher</h2>
+<ul class="pure-menu-list">
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/dishwashers/food-disposal/water-dispensers-water-filtering-units">
+                            Water Dispensers / Water Filtering Units                            </a></li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/dishwashers/food-disposal/disposers">
+                            Disposers                            </a></li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/dishwashers/dishwashers/dish-drawer-dishwashers">
+                            Dish Drawer                            </a></li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/dishwashers/dishwashers/built-in-dishwashers">
+                            Built-In                            </a></li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/dishwashers/dishwashers/portable-dishwashers">
+                            Portable                            </a></li>
+</ul>
+<a href="/dishwashers/">All Dishwashers</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mgm-mega-menu mgm-classic bbq" id="p7MGMs11_6">
+<div class="mgm-mega-content">
+<div class="p7mgm-row mgm-col-classic">
+<div class="p7mgm-ColContent">
+<div class="pure-g">
+<div class="pure-u-1">
+<h2 class="sub-title">BBQ</h2>
+<ul class="pure-menu-list">
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/grills-bbqs-outdoor-cooking/grills/charcoal-bbq">
+                            Charcoal BBQ                            </a></li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/grills-bbqs-outdoor-cooking/grills/lp-gas-bbq">
+                            LP Gas BBQ                            </a></li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/grills-bbqs-outdoor-cooking/grills/natural-gas-bbq">
+                            Natural Gas BBQ                            </a></li>
+</ul>
+<a href="/grills-bbqs-outdoor-cooking/">All BBQ</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mgm-mega-menu mgm-classic brands" id="p7MGMs11_9">
+<div class="mgm-mega-content">
+<div class="p7mgm-row mgm-col-classic">
+<div class="p7mgm-ColContent">
+<div class="pure-g">
+<div class="pure-u-1">
+<ul class="pure-menu-list">
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/alfresco">
+                            Alfresco                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/amana">
+                            Amana                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/asko">
+                            Asko                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/avanti">
+                            Avanti                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/azure-home-products">
+                            Azure Home Products                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/bertazzoni">
+                            Bertazzoni                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/bosch">
+                            Bosch                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/breda">
+                            Breda                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/cafe-appliances">
+                            Cafe Appliances                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/coyote">
+                            Coyote                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/dacor">
+                            Dacor                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/dcs">
+                            Dcs                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/delta-heat">
+                            Delta Heat                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/electrolux">
+                            Electrolux                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/falmec">
+                            Falmec                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/fhiaba">
+                            Fhiaba                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/fisher-paykel">
+                            Fisher &amp; Paykel                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/frigidaire">
+                            Frigidaire                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/frigidaire-professional">
+                            Frigidaire Pro                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/fulgor-milano">
+                            Fulgor Milano                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/ge">
+                            GE                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/ge-profile">
+                            GE Profile                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/gladiator">
+                            Gladiator                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/haier">
+                            Haier                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/hestan">
+                            Hestan                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/hotpoint">
+                            Hotpoint                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/kitchenaid">
+                            KitchenAid                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/lg-appliances">
+                            LG                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/lg-studio">
+                            LG Studio                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/liebherr">
+                            Liebherr                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/marvel">
+                            Marvel                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/maytag">
+                            Maytag                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/monogram">
+                            Monogram                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/napoleon-bbq">
+                            Napoleon BBQ                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/perlick">
+                            Perlick                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/samsung">
+                            Samsung                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/signature-kitchen-suite">
+                            Signature Kitchen Suite                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/smeg">
+                            Smeg                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/speed-queen">
+                            Speed Queen                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/summit">
+                            Summit                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/thor-kitchen">
+                            Thor Kitchen                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/twin-eagles">
+                            Twin Eagles                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/u-line">
+                            U-Line                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/ventahood">
+                            Ventahood                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/whirlpool">
+                            Whirlpool                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/whirlpool-commercial">
+                            Whirlpool Commercial                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/xo-appliance">
+                            Xo Appliance                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/zephyr">
+                            Zephyr                            </a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/zline-kitchen-and-bath">
+                            Zline Kitchen And Bath                            </a> </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mgm-mega-menu mgm-classic savings" id="p7MGMs11_10">
+<div class="mgm-mega-content">
+<div class="p7mgm-row mgm-col-classic">
+<div class="p7mgm-ColContent">
+<div class="pure-g">
+<div class="pure-u-1">
+<h2 class="sub-title">Savings</h2>
+<ul class="pure-menu-list">
+<!-- Hided on 2023-07-11 - https://www.wrike.com/open.htm?id=1157218838 -->
+<!--<li class="pure-menu-item"><a class="pure-menu-link" href="/current-promotion/">Promotions</a></li>-->
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/financing/">Financing</a> </li>
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/packages/">Packages</a> </li>
+<!--<li class="pure-menu-item"><a class="pure-menu-link" href="/flyer/">Flyers</a></li>-->
+<li class="pure-menu-item"> <a class="pure-menu-link" href="/rebates/">Rebates</a> </li>
+<!--<li class="pure-menu-item"><a class="pure-menu-link" href="/email-savings/">Email Savings</a></li>-->
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--End Sub menus-->
+<script type="text/javascript">P7_MGMop('p7MGM_11', 2 , 450, 0, 1, 1, 1, 0, 0, 0, 0, 1, 100000);</script>
+</div>
+</div>
+<!-- header navigation end -->
+</div>
+<div class="pure-u-1-6 translate-wrapper">
+<h3 class="spanish-spoken">SE HABLA ESPAÑOL</h3>
+</div>
+<div class="pure-u-1-6 delivery-track">
+<p><a href="/track-your-delivery"><img alt="Track Your Delivery" class="pure-img" height="44" src="/uploads/files/Track-your-delivery.png" width="279"/></a></p>
+</div>
+</div>
+</div>
+</div>
+<!-- Start Global Headline Scroller -->
+<div class="pure-u-1 pure-u-centered">
+<div class="p7OPM-01 p7OPM opm-noscript opm-carousel sot-carousel sot-headline-scroller" id="p7OPM_10201">
+<div class="p7OPM-layout">
+<div class="opm-tabs-wrapper left" id="p7OPMtw_10201">
+<div class="opm-tabs" id="p7OPMtb_10201">
+<ul>
+<li><a href="#" id="p7OPMtg_10201_1">1</a></li>
+</ul>
+<div class="opm-tab-content" id="p7OPMtc_10201"></div>
+</div>
+</div>
+<div class="opm-panel-wrapper max-1920" id="p7OPMpw_10201">
+<div class="location">
+<a class="pure-menu-link pure-hover-light-grey" href="/stores/">
+<img alt="Find a Store near you" height="23" src="/_site-files/img/mobile/m-location-icon-red.svg" width="23"/>
+<span class="location-text">Visit our Doral Location</span>
+</a>
+</div>
+<div class="width-60 opm-panel-layout max-1200" id="p7OPMww_10201">
+<div class="opm-panel" id="p7OPMpn_10201_1">
+<div class="opm-panel-content panel-class"> <a href="/stores/"><span>Southern Florida’s<span> </span></span><strong>Largest</strong><span><span> </span>and<span> </span></span><strong>Most Trusted</strong><span><span> </span>Independent Appliance Retailer.</span></a></div>
+</div>
+</div>
+<div class="phone-contact">
+<a class="pure-menu-link pure-hover-light-grey" href="tel:+13052005204">
+<img alt="Call Us" height="23" src="/_site-files/img/global/phone-icon.svg" width="23"/>
+<span class="contact-text">Call us +1-305-200-5204</span>
+</a>
+</div>
+</div>
+</div>
+<script type="text/javascript">P7_OPMop('p7OPM_10201',1,2,1200,3,300,'px',1,4,0,0,0,8,1,0);</script>
+</div>
+</div>
+<!-- Finish Global Headline Scroller -->
+</div>
+<!-- logo & main menu - centered -->
+<!-- finish desktop headers -->
+<!-- start page content -->
+<div class="pure-u-1">
+<div class="page-content-wrapper pure-g max-1600 l-box product-details-page overflow-visible" data-page="product-details-page.php" id="compare-products-js">
+<div class="pure-u-1">
+<nav aria-label="Breadcrumb" class="breadcrumb-nav">
+<ol>
+<li><a href="/">Home</a> / </li>
+<li><a href="/refrigeration/">Refrigeration</a> / </li><li><a href="/refrigeration/french-door/">French Door</a> / </li><li><a href="/refrigeration/french-door/french-door-bottom-freezer-refrigerators/">French Door: Freestanding</a> / </li><li><a aria-current="page" href="/refrigeration/french-door/french-door-bottom-freezer-refrigerators/wrf560sehv/">WRF560SEHV</a></li> </ol>
+</nav>
+</div>
+<div class="pure-u-1 pure-g">
+<div class="pure-u-1 pure-u-md-10-24 pure-u-xl-15-24" style="overflow: hidden;">
+<div class="pure-g relative px-md-3.5">
+<div class="pure-u-1 pure-u-xl-7-12 relative pb-box-14 pb-xl-box-0">
+<div class="relative text-center w-full top-1">
+<img src="/_img/logos_100/WHIRL.png"/>
+</div>
+<div class="slider-for slider text-center w-full max-w-xl" style="position: relative; margin: 0 auto;">
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/meeoislvljnr.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/meeoislvljnr.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mefdpojwosfc.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/merqgddmqvfu.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/memoofqkalix.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mechrooaohxn.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/meibioebjffx.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mevfaloiabaq.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/metxhgamsjpg.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mepbhrgaxakb.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/medjclgwggfb.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/metnsrylpgaa.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mevweghkkpmv.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mendlpogtxsw.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mekgcvhkcuoi.jpg?imgeng=/w_800/h_600/m_letterbox_ffffff_100" style="width: 100%;"/>
+</div>
+<div class="slider slider-nav w-40" style="margin-top: 15px; margin-left: auto; margin-right: auto;">
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/meeoislvljnr.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/meeoislvljnr.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mefdpojwosfc.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/merqgddmqvfu.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/memoofqkalix.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mechrooaohxn.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/meibioebjffx.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mevfaloiabaq.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/metxhgamsjpg.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mepbhrgaxakb.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/medjclgwggfb.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/metnsrylpgaa.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mevweghkkpmv.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mendlpogtxsw.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+<img alt="" class="slide-image" src="https://images.webfronts.com/cache/mekgcvhkcuoi.jpg?imgeng=/w_90/h_90/m_letterbox_ffffff_100" style="width: 100%; padding: 5px;"/>
+</div>
+</div>
+<div class="pure-u-1 pure-u-xl-5-12 mx-2 px-3">
+<h1 class="pdp-product-name">30-inch Wide French Door Refrigerator - 20 cu. ft.</h1>
+<h2 class="pdp-model-number"><strong>Model:</strong> <span>WRF560SEHV</span></h2>
+<h2 class="pdp-color-options-heading">Color Options:</h2>
+<ul class="pure-menu-list flex flex-wrap justify-start pdp-color-options">
+<li>
+<a href="/refrigeration/french-door/french-door-bottom-freezer-refrigerators/WRF560SEHZ/" title="Stainless Steel">
+<img alt="Stainless Steel" height="30" src="/_site-files/img/swatches/stainless-steel.svg" width="30"/>
+</a>
+</li>
+<li>
+<a href="/refrigeration/french-door/french-door-bottom-freezer-refrigerators/WRF560SEHB/" title="Black">
+<img alt="Black" height="30" src="/_site-files/img/swatches/black.svg" width="30"/>
+</a>
+</li>
+<li class="current">
+<img alt="Black Stainless Steel" height="30" src="/_site-files/img/swatches/black-stainless-steel.svg" width="30"/>
+</li>
+<li>
+<a href="/refrigeration/french-door/french-door-bottom-freezer-refrigerators/WRF560SEHW/" title="White">
+<img alt="White" height="30" src="/_site-files/img/swatches/white.svg" width="30"/>
+</a>
+</li>
+</ul>
+<h2 class="pdp-product-features-names-heading">Features:</h2>
+<ul class="pdp-product-features-names">
+<li>Adjustable Gallon Door Bins</li>
+<li>Factory-Installed Icemaker</li>
+<li>FreshFlow(TM) Produce Preserver</li>
+<li>Full-Width Pantry Drawer</li>
+<li>Tuck Shelf</li>
+<li>Fingerprint Resistant</li>
+<li>Humidity-Controlled Crispers</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="pure-u-1 pure-u-md-13-24 pure-u-xl-8-24">
+<!-- JSON+LD product markup -->
+<script type="application/ld+json">
+  { "@context" : "http://schema.org",
+  "@type" : "Product",
+  "name"  : "30-inch Wide French Door Refrigerator - 20 cu. ft.",
+  "image" : "https://images.webfronts.com/cache/meeoislvljnr.jpg?imgeng=/w_300/h_300/m_letterbox_ffffff_100",
+  "url"   : "https://www.woodcocks.us/refrigeration/french-door/french-door-bottom-freezer-refrigerators/WRF560SEHV",
+  "brand" : {
+    "@type" : "Brand",
+    "name"  : "Whirlpool",
+    "logo"  : "https://www.woodcocks.us/_img/logos/WHIRL.png"
+    },
+  "offers" : {
+    "@type" : "Offer",
+    "priceCurrency" : "USD",
+    "price"  : "1,799.00"
+    }
+  }
+  </script>
+<!-- End JSON+LD product markup -->
+<div class="pdp-pricing-section-container">
+<div class="pdp-pricing-section relative w-full">
+<div>
+<span class="rebate-save">Save $500.99</span>
+<div class="pdp-original-price-container">
+                        Was <span class="rebate-original-price">$2.299.99</span>
+</div>
+</div>
+<div class="pdp-post-rebate-price">
+                    $1,799.00                </div>
+<img alt="Affirm Logo" class="w-1/4" src="/_site-files/img/svg/affirm_white_logo-solid_bg.svg"/>
+<div class="w-full">
+<p class="affirm-as-low-as" data-affirm-color="white" data-affirm-type="text" data-amount="179900" data-page-type="product"></p>
+</div>
+<div class="w-full">
+<h3 class="text-white fs-5 font-bold" style="color: #fff; font-weight: 700;">Wells Fargo</h3>
+<p><a class="no-underline hover:underline" href="https://retailservices.wellsfargo.com/pl/2176066082" target="_blank">Pay Over Time: <span>$1,799</span></a></p>
+<p class="mb-1"><a class="no-underline hover:underline" href="https://retailservices.wellsfargo.com/pl/2176066082" target="_blank"><span class="fw-bold">12</span> Months<sup class="fw-bold">1</sup></a></p>
+<p><a class="no-underline hover:underline" href="https://retailservices.wellsfargo.com/pl/2176066082" target="_blank"><span>$150/Mo<sup>2</sup></span> Suggested Equal Monthly Payment</a></p>
+<button class="hover:underline bg-transparent mb-4 banking-info-button" style="-webkit-appearance: none; appearance: none; background-color: transparent;" type="button"><sup>1,2</sup> Financing Terms &gt;</button>
+<a class="hidden banking-info-anchor" data-pbx="p7PBX_7,4,580,0,3,400,1,150,0,0,0,0,1" href="#"></a>
+</div>
+<div class="pdp-form-container">
+<form action="/refrigeration/french-door/french-door-bottom-freezer-refrigerators/WRF560SEHV/" class="pure-form pure-form-stacked add-cart-form" data-product-id="4652" enctype="multipart/form-data" method="POST">
+<input name="_token" type="hidden" value="fce90d5a35e1360e40d4ad491ae3a1869c8a557662c329a2272fded29447ac31"/>
+<div class="pure-g">
+<div class="pure-u-1">
+<div class="pure-g items-center border border-solid border-white px-box-1.5 py-box-2.5">
+<div class="pure-u-3-24">
+<div class="epic-protection-badge">
+</div>
+</div>
+<div class="pure-u-13-24 pure-u-sm-14-24 px-box-1.5 px-sm-box-3">
+<h3 class="font-bold text-white epic-protection-plans-heading m-0" style="font-size: 0.75rem; line-height: 0.875rem; color: #fff; font-weight: 700;">Extended Warranty Program</h3>
+<span class="epic-protection-plans-subheading">View available plans</span>
+</div>
+<div class="pure-u-8-24 pure-u-sm-7-24 flex justify-end">
+<span class="epic-selected-plan"></span>
+</div>
+</div>
+</div>
+<div class="pure-u-1 items-center border-x border-b border-solid border-t-0 border-white px-box-3.5 py-box-7 protection-plans-options">
+<div class="flex flex-wrap items-center">
+<label class="pure-checkbox flex-none w-3/5" for="warranty_5">
+<input amount="$264.99" class="warrantyChoiceRadio" id="warranty_5" name="warranty" type="checkbox" value="5_year" warranty="5 Years"/> 5 Year Extended Warranty Program – Best Value                                        </label>
+<div class="flex-none pl-box-4">$264.99</div>
+</div>
+<div class="flex flex-wrap items-center">
+<label class="pure-checkbox flex-none w-3/5" for="warranty_3">
+<input amount="$162.99" checked="" class="warrantyChoiceRadio" id="warranty_3" name="warranty" type="checkbox" value="3_year" warranty="3 Years"/> 3 Year Extended Warranty Program                                        </label>
+<div class="flex-none pl-box-4">$162.99</div>
+</div>
+<div class="flex flex-wrap items-center">
+<label class="pure-checkbox" for="warranty_1">
+<input id="warranty_1" name="warranty" type="checkbox" value="0"/> Decline Protection
+                                    </label>
+</div>
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1 tips-terms-of-service mt-0" style="font-size: 10px; margin-top: 0;">
+<p class="mt-1">
+                                Please read our Purchasing Tips and Terms of Service before checking out. - *Accessories not included
+                            </p>
+<p>
+<a class="no-underline" href="/terms-of-use/">Read More</a>
+</p>
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1">
+<button class="product-model-add-cart" type="submit">
+                                Add to Cart
+                            </button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="pbx-panel" id="p7PBXp_7">
+<div class="pbx-content pbx-white pbx-rounded pbx-shadow" id="p7PBXw_7">
+<div class="pbx-close pbx-black-close">
+<a href="#" id="p7PBXcl_7">Close</a>
+</div>
+<p><sup>[1]</sup>This credit card is issued by Wells Fargo Bank, N.A., an Equal Housing Lender. Special terms apply to qualifying purchases charged with approved credit. Minimum monthly payments are required during the promotional (special terms) period. Interest will be charged to your account from the purchase date at the APR for Purchases if the purchase balance before the end of the promotional period. For new accounts, the APR for Purchases is 28.99%. If you are charged interest in any billing cycle, the minimum interest charge will be $1.00. This information is accurate as of 05-29-2025 and is subject to change. For current information, call us at 1-800-431-5921. Special financing terms are subject to change without notice.</p>
+<p><sup>[2]</sup>The amount shown is an example of paying more than the minimum monthly payment to pay the balance in full within the promotional period. Monthly payment is based on purchase price alone excluding taxes and delivery charges. Credit purchases subject to credit approval. Other transactions may affect the monthly payment.</p>
+</div>
+</div>
+<div class="pdp-rebates-wrapper">
+<p><a class="pure-button pure-button-white pure-button-border-color-black pure-hover-black pure-button-block pure-font-strong ask-an-expert" href="#">ASK A QUESTION</a></p>
+</div>
+<div class="pdp-rebates-wrapper">
+<h4 class="font-bold">Offers Available</h4>
+<ul class="list-none p-0">
+<li class="text-black mt-1">
+<a class="text-black" href="/rebate/whirlpool-whirlpool-memorial-day-event-rebate/588/">Whirlpool Memorial Day Event Rebate</a> 
+										Expires 2025-06-04 <a class="text-black" href="http://demo36944.appliances.dev.rwsgateway.com/_CGI/VIEW_REBATE_FORM?PROTOCOL=CMS&amp;FORM_NUMBER=528469" rel="nofollow noreferrer" target="_blank">Download Rebate Form</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="pure-u-1 border border-solid mt-9 mx-2.5 mx-lg-10" style="border-color: #707070;">
+<h3 class="block w-full text-white bg-black font-bold text-sm h-11 leading-10 pl-box-3.5 m-0" style="color: #fff; font-weight: 700; line-height: 2.5rem;">Quick Specs</h3>
+<div class="grid grid-cols-1 grid-cols-sm-2 grid-cols-md-3 grid-cols-lg-4">
+<dl class="pl-box-3.5">
+<dt class="font-bold inline text-sm">Style:</dt>
+<dd class="inline leading-5 text-sm">French Door: Freestanding</dd>
+</dl>
+<dl class="pl-box-3.5">
+<dt class="font-bold inline leading-5 text-sm">Energy Star:</dt>
+<dd class="inline leading-5 text-sm">No</dd>
+</dl>
+<dl class="pl-box-3.5">
+<dt class="font-bold inline leading-5 text-sm">Height:</dt>
+<dd class="inline leading-5 text-sm">67 inches</dd>
+</dl>
+<dl class="pl-box-3.5">
+<dt class="font-bold inline leading-5 text-sm">Width:</dt>
+<dd class="inline leading-5 text-sm">30 inches</dd>
+</dl>
+<dl class="pl-box-3.5">
+<dt class="font-bold inline leading-5 text-sm">Depth:</dt>
+<dd class="inline leading-5 text-sm">34 inches</dd>
+</dl>
+<dl class="pl-box-3.5">
+<dt class="font-bold inline leading-5 text-sm">Capacity:</dt>
+<dd class="inline leading-5 text-sm">20 cu ft</dd>
+</dl>
+<dl class="pl-box-3.5">
+<dt class="font-bold inline leading-5 text-sm">Number Of Shelves:</dt>
+<dd class="inline leading-5 text-sm">3</dd>
+</dl>
+<dl class="pl-box-3.5">
+<dt class="font-bold inline leading-5 text-sm">Counter Depth:</dt>
+<dd class="inline leading-5 text-sm">No</dd>
+</dl>
+<dl class="pl-box-3.5">
+<dt class="font-bold inline leading-5 text-sm">Includes Dispenser:</dt>
+<dd class="inline leading-5 text-sm">Yes</dd>
+</dl>
+<dl class="pl-box-3.5">
+<dt class="font-bold inline leading-5 text-sm">Includes Icemaker:</dt>
+<dd class="inline leading-5 text-sm">Yes</dd>
+</dl>
+<dl class="pl-box-3.5">
+<dt class="font-bold inline leading-5 text-sm">Sabbath Mode:</dt>
+<dd class="inline leading-5 text-sm">No</dd>
+</dl>
+<dl class="pl-box-3.5">
+<dt class="font-bold inline leading-5 text-sm">Wifi Enabled:</dt>
+<dd class="inline leading-5 text-sm">No</dd>
+</dl>
+</div> </div>
+<div class="pure-u-1 mx-2.5 mx-lg-10 pdp-details-section">
+<h3 class="block w-full font-bold leading-10 h-11 mt-6 pdp-details-title relative" style="font-weight: 700; line-height: 2.5rem; color: #4d4d4d;">
+<a class="w-full pl-box-3.5 border-none text-left block relative no-underline js-toggle-expandable" href="#features" id="features" style="font-weight: 700; line-height: 2.5rem; color: #4d4d4d;">Features</a>
+</h3>
+<div class="pure-g pdp-details-body js-expandable-section">
+<div class="pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4 p-box-4">
+<img alt="Adjustable Gallon Door Bins" src="https://images.webfronts.com/cache/MENIMUVQCOWQ.JPG?imgeng=/w_300/h_300/m_letterbox_ffffff_100"/>
+<h5>Adjustable Gallon Door Bins</h5>
+<p>Move these adjustable bins anywhere in the door for increased loading flexibility when and where you need it.</p>
+</div>
+<div class="pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4 p-box-4">
+<img alt="Factory-Installed Icemaker" src="https://images.webfronts.com/cache/MEGYAKWNOXAG.JPG?imgeng=/w_300/h_300/m_letterbox_ffffff_100"/>
+<h5>Factory-Installed Icemaker</h5>
+<p>Don't worry about refilling ice trays with this pre-installed icemaker that makes sure you always have plenty of ice on hand.</p>
+</div>
+<div class="pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4 p-box-4">
+<img alt="FreshFlow(TM) Produce Preserver" src="https://images.webfronts.com/cache/MEKFHSNUUDKL.JPG?imgeng=/w_300/h_300/m_letterbox_ffffff_100"/>
+<h5>FreshFlow™ Produce Preserver</h5>
+<p>Keep fruits and veggies in the ideal environment to help produce stay fresher longer.</p>
+</div>
+<div class="pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4 p-box-4">
+<img alt="Full-Width Pantry Drawer" src="https://images.webfronts.com/cache/MEHDPOTGXPOL.JPG?imgeng=/w_300/h_300/m_letterbox_ffffff_100"/>
+<h5>Full-Width Pantry Drawer</h5>
+<p>Easily store wide items like party platters and sheet cakes in the full-width drawer.</p>
+</div>
+<div class="pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4 p-box-4">
+<img alt="Tuck Shelf" src="https://images.webfronts.com/cache/MEPKHNGMILPF.JPG?imgeng=/w_300/h_300/m_letterbox_ffffff_100"/>
+<h5>Tuck Shelf</h5>
+<p>Make room for tall items. The front adjusts and slides out of the way, creating space for things like a 2-liter bottle or large salad bowl.</p>
+</div>
+<div class="pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4 p-box-4">
+<img alt="Fingerprint Resistant" src="https://images.webfronts.com/cache/MEFHPFWYGFBX.JPG?imgeng=/w_300/h_300/m_letterbox_ffffff_100"/>
+<h5>Fingerprint Resistant</h5>
+<p>Available in black stainless steel and stainless steel finishes, easy-to-clean steel resists fingerprints and smudges.</p>
+<button class="pure-button pure-button-white pure-button-border-color-black js-play-video" data-url="https://s3.amazonaws.com/rws-production-spec-data-video/media/ULV7LZ2YJVLTA2OEMG4LBEM27NAXU7RA4UPDPDABJXB7QQJOMB7Q====/HLJFBJEOWJ.mp4" type="button">Watch Video</button>
+</div>
+<div class="pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4 p-box-4">
+<img alt="Humidity-Controlled Crispers" src="https://images.webfronts.com/cache/MEWQXRKLRTUL.JPG?imgeng=/w_300/h_300/m_letterbox_ffffff_100"/>
+<h5>Humidity-Controlled Crispers</h5>
+<p>Store fruits and vegetables in their ideal environment.</p>
+<button class="pure-button pure-button-white pure-button-border-color-black js-play-video" data-url="https://s3.amazonaws.com/rws-production-spec-data-video/media/PVHD27BXIKCYH5ZZL2SRG6IPBOP46VFBWSKORNSHDBDAR64F5WXQ====/GTPGUGWBWK.mp4" type="button">Watch Video</button>
+</div>
+<template id="woodcocksYouTubeEmbeddedVideo">
+<div class="w-full relative" style="height: 75vh;">
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" class="w-full h-full" frameborder="0" height="315" title="YouTube video player" width="560"></iframe>
+</div>
+</template>
+<template id="woodcocksMP4EmbeddedVideo">
+<div class="tk-video-mp4 w-full">
+<video autoplay="" class="tk-rounded w-full" controls="" muted="" type="video/mp4"></video>
+</div>
+</template>
+</div> </div>
+<div class="pure-u-1 mx-2.5 mx-lg-10">
+<h3 class="block w-full font-bold leading-10 h-11 mt-6 pdp-details-title relative" style="font-weight: 700; line-height: 2.5rem; color: #4d4d4d;">
+<a class="w-full pl-box-3.5 border-none text-left block relative no-underline js-toggle-expandable" href="#specifications" id="specifications" style="font-weight: 700; line-height: 2.5rem; color: #4d4d4d;">Specifications</a>
+</h3>
+<div class="pure-g pdp-details-body js-expandable-section">
+<div class="pure-u-1">
+<table class="inline_sd_table pure-table pure-table-striped">
+<tr class="inline_sd_row"><td class="inline_sd_header" colspan="2">Certifications</td></tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Ada Compliant</b></td>
+<td class="inline_sd_even_cell">No</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Cee Tier Rating</b></td>
+<td class="inline_sd_odd_cell">Not Rated</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Prop65</b></td>
+<td class="inline_sd_even_cell">Standard</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Ul</b></td>
+<td class="inline_sd_odd_cell">Yes</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Ule Environmentally Preferred Certified</b></td>
+<td class="inline_sd_even_cell">Passed 60 point AHAM (Association of Home Appliance Manufacturers) Sustainability Standards</td>
+</tr>
+<tr class="inline_sd_row"><td class="inline_sd_header" colspan="2">Controls</td></tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Automatic Defrost</b></td>
+<td class="inline_sd_even_cell">Yes</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Control Location</b></td>
+<td class="inline_sd_odd_cell">Exterior Dispenser</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Control Lockout</b></td>
+<td class="inline_sd_even_cell">Yes</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Cooling Type</b></td>
+<td class="inline_sd_odd_cell">Single Evaporator</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Door Ajar/open Alarm</b></td>
+<td class="inline_sd_even_cell">Yes</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>LCD Touch Screen</b></td>
+<td class="inline_sd_odd_cell">No</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Max Cool/fast Cool</b></td>
+<td class="inline_sd_even_cell">Yes</td>
+</tr>
+<tr class="inline_sd_row"><td class="inline_sd_header" colspan="2">Details</td></tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Door Style Configuration</b></td>
+<td class="inline_sd_even_cell">French Door</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Installation Configuration</b></td>
+<td class="inline_sd_odd_cell">Freestanding</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Refrigeration Configuration</b></td>
+<td class="inline_sd_even_cell">Refrigerator</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Refrigerator Type</b></td>
+<td class="inline_sd_odd_cell">French Door</td>
+</tr>
+<tr class="inline_sd_row"><td class="inline_sd_header" colspan="2">Dimensions</td></tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Cabinet Width</b></td>
+<td class="inline_sd_even_cell">29.5</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Carton Depth</b></td>
+<td class="inline_sd_odd_cell">35.94</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Carton Height</b></td>
+<td class="inline_sd_even_cell">69.8</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Carton Width</b></td>
+<td class="inline_sd_odd_cell">32.24</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Depth Closed Excluding Handles</b></td>
+<td class="inline_sd_even_cell">32.375</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Depth Closed Including Handles</b></td>
+<td class="inline_sd_odd_cell">34.375</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Depth Excluding Doors</b></td>
+<td class="inline_sd_even_cell">28.5</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Depth With Door Open 90 Degree</b></td>
+<td class="inline_sd_odd_cell">51.625</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Dispenser Options</b></td>
+<td class="inline_sd_even_cell">Control/Child Lock; Filtered Water; Night Light</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Dispenser Pad Color</b></td>
+<td class="inline_sd_odd_cell">Grey</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Dispenser Type</b></td>
+<td class="inline_sd_even_cell">Exterior Water Only</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Freezer Capacity Volume</b></td>
+<td class="inline_sd_odd_cell">6.34</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Gross Weight</b></td>
+<td class="inline_sd_even_cell">253</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Height To Top of Cabinet</b></td>
+<td class="inline_sd_odd_cell">67.375</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Height To Top of Door Hinge</b></td>
+<td class="inline_sd_even_cell">68.375</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Net Weight</b></td>
+<td class="inline_sd_odd_cell">253</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Refrigerator Capacity Volume</b></td>
+<td class="inline_sd_even_cell">13.34</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Total Refrigerator Capacity Volume</b></td>
+<td class="inline_sd_odd_cell">19.7</td>
+</tr>
+<tr class="inline_sd_row"><td class="inline_sd_header" colspan="2">Exterior Details</td></tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Base Grille Color</b></td>
+<td class="inline_sd_even_cell">Black</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Cabinet Color</b></td>
+<td class="inline_sd_odd_cell">Black</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Cabinet Finish</b></td>
+<td class="inline_sd_even_cell">Textured</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Counter Depth</b></td>
+<td class="inline_sd_odd_cell">No</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Door Color</b></td>
+<td class="inline_sd_even_cell">Black Stainless Steel</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Door Finish</b></td>
+<td class="inline_sd_odd_cell">Smooth</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Door Style</b></td>
+<td class="inline_sd_even_cell">Contour</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Handle Color</b></td>
+<td class="inline_sd_odd_cell">Black Stainless</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Handle Material</b></td>
+<td class="inline_sd_even_cell">Metal</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Handle Type</b></td>
+<td class="inline_sd_odd_cell">Reach Through Handle</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Hidden Hinge</b></td>
+<td class="inline_sd_even_cell">Yes</td>
+</tr>
+<tr class="inline_sd_row"><td class="inline_sd_header" colspan="2">Filter Details</td></tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Air Filter Indicator/reset</b></td>
+<td class="inline_sd_even_cell">No</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Fresh Flow Air Filter Included</b></td>
+<td class="inline_sd_odd_cell">Yes</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Produce Preserver</b></td>
+<td class="inline_sd_even_cell">Yes</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Water Filter Indicator/reset</b></td>
+<td class="inline_sd_odd_cell">Yes</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Water Filter Location</b></td>
+<td class="inline_sd_even_cell">Interior</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Water Filter Part Number</b></td>
+<td class="inline_sd_odd_cell">EDR1RXD1</td>
+</tr>
+<tr class="inline_sd_row"><td class="inline_sd_header" colspan="2">Freezer Details</td></tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Freezer Compartment Type</b></td>
+<td class="inline_sd_even_cell">Slide-Out Door 2 Tier</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Freezer Door Bins</b></td>
+<td class="inline_sd_odd_cell">Pizza Pocket</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Freezer Door Type</b></td>
+<td class="inline_sd_even_cell">Pull-Out</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Freezer Drawer/basket</b></td>
+<td class="inline_sd_odd_cell">1 Full Width Lower Plastic; 1 Full Width Upper Plastic</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Freezer Lighting</b></td>
+<td class="inline_sd_even_cell">LED</td>
+</tr>
+<tr class="inline_sd_row"><td class="inline_sd_header" colspan="2">General</td></tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Energy Star® Qualified</b></td>
+<td class="inline_sd_even_cell">No</td>
+</tr>
+<tr class="inline_sd_row"><td class="inline_sd_header" colspan="2">Icemaker Details</td></tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Icemaker</b></td>
+<td class="inline_sd_even_cell">Factory Installed</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Icemaker Location</b></td>
+<td class="inline_sd_odd_cell">Freezer</td>
+</tr>
+<tr class="inline_sd_row"><td class="inline_sd_header" colspan="2">Refrigerator Details</td></tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Humidity-controlled Crispers</b></td>
+<td class="inline_sd_even_cell">2 Split-Width</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Liner Finish</b></td>
+<td class="inline_sd_odd_cell">White</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Number of Doors</b></td>
+<td class="inline_sd_even_cell">3</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Number of Interior Shelves</b></td>
+<td class="inline_sd_odd_cell">3</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Pantry Drawer</b></td>
+<td class="inline_sd_even_cell">Yes</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Refrigerator Door Bins</b></td>
+<td class="inline_sd_odd_cell">2 Fixed Full-Width; 4 Adjustable Full-Width Gallon</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Refrigerator Lighting</b></td>
+<td class="inline_sd_even_cell">LED</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Spill-proof Glass Shelves</b></td>
+<td class="inline_sd_odd_cell">1 Adjustable Full Width; 1 Fixed Full Width; 1 Tuck Shelf</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Temperature-controlled Drawers</b></td>
+<td class="inline_sd_even_cell">1 Full Width Pantry</td>
+</tr>
+<tr class="inline_sd_row"><td class="inline_sd_header" colspan="2">Smart Compatibility</td></tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Connectivity</b></td>
+<td class="inline_sd_even_cell">No</td>
+</tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_odd_cell"><b>Works With</b></td>
+<td class="inline_sd_odd_cell">No</td>
+</tr>
+<tr class="inline_sd_row"><td class="inline_sd_header" colspan="2">Warming Drawer Details</td></tr>
+<tr class="inline_sd_cell_row">
+<td class="inline_sd_even_cell"><b>Temperature Range</b></td>
+<td class="inline_sd_even_cell">-5/+5 FC 33/45 RC</td>
+</tr>
+</table>
+</div>
+</div> </div>
+<div class="pure-u-1 mx-2.5 mx-lg-10">
+<h3 class="block w-full font-bold leading-10 h-11 mt-6 pdp-details-title relative" style="font-weight: 700; line-height: 2.5rem; color: #4d4d4d;">
+<a class="w-full pl-box-3.5 border-none text-left block relative no-underline js-toggle-expandable" href="#documents" id="documents" style="font-weight: 700; line-height: 2.5rem; color: #4d4d4d;">Documents</a>
+</h3>
+<div class="pure-g pdp-details-body js-expandable-section">
+<div class="pure-u-1">
+<table class="pure-table pure-table-striped downloadable-documents" summary="Downloadable Documents">
+<tbody>
+<tr>
+<th scope="row">
+                            Dimension Guide                        </th>
+<td>
+<a download="MELXMELKPMMO.PDF" href="https://images.webfronts.com/cache/melxmelkpmmo.pdf" rel="nofollow noreferrer">Click here to download</a>
+</td>
+</tr>
+<tr>
+<th scope="row">
+                            Feature Sheet                        </th>
+<td>
+<a download="MERMCMQLUIWQ.PDF" href="https://images.webfronts.com/cache/mermcmqluiwq.pdf" rel="nofollow noreferrer">Click here to download</a>
+</td>
+</tr>
+<tr>
+<th scope="row">
+                            Warranty                        </th>
+<td>
+<a download="MEEBOUYIYHID.PDF" href="https://images.webfronts.com/cache/meebouyiyhid.pdf" rel="nofollow noreferrer">Click here to download</a>
+</td>
+</tr>
+<tr>
+<th scope="row">
+                            Owners Manual                        </th>
+<td>
+<a download="MEOBKIQYPFTL.PDF" href="https://images.webfronts.com/cache/meobkiqypftl.pdf" rel="nofollow noreferrer">Click here to download</a>
+</td>
+</tr>
+<tr>
+<th scope="row">
+                            Quick Reference Sheet                        </th>
+<td>
+<a download="MEXALFVHJDMB.PDF" href="https://images.webfronts.com/cache/mexalfvhjdmb.pdf" rel="nofollow noreferrer">Click here to download</a>
+</td>
+</tr>
+<tr>
+<th scope="row">
+                            Energy Guide                        </th>
+<td>
+<a download="MEKKWMFGJXOY.PDF" href="https://images.webfronts.com/cache/mekkwmfgjxoy.pdf" rel="nofollow noreferrer">Click here to download</a>
+</td>
+</tr>
+<tr>
+<th scope="row">
+                            Dispensing Guide                        </th>
+<td>
+<a download="MEGDMPUEXXNI.PDF" href="https://images.webfronts.com/cache/megdmpuexxni.pdf" rel="nofollow noreferrer">Click here to download</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div> </div>
+<div class="pure-u-1 mx-2.5 mx-lg-10">
+<h3 class="block w-full font-bold leading-10 h-11 mt-6 pdp-details-title relative" style="font-weight: 700; line-height: 2.5rem; color: #4d4d4d;">
+<a class="w-full pl-box-3.5 border-none text-left block relative no-underline js-toggle-expandable" href="#reviews" id="reviews" style="font-weight: 700; line-height: 2.5rem; color: #4d4d4d;">Reviews</a>
+</h3>
+<div class="pure-g pdp-details-body js-expandable-section">
+<div class="pure-u-1 reviews pdp-review-form-container js-review-form-container expanded">
+<h4>Enter Your Review:</h4>
+<p id="formInstructions">
+        Fields marked with an asterisk (<em class="required">*</em>) are required.
+    </p>
+<form action="/_site-files/form-target-files/add-review.php" class="pure-form pure-form-aligned" data-url="/refrigeration/french-door/french-door-bottom-freezer-refrigerators/wrf560sehv/" enctype="application/x-www-form-urlencoded" id="frmReviews" method="POST">
+<input id="pkProduct" name="pkProduct" type="hidden" value="4652"/>
+<input id="pkSKU" name="pkSKU" type="hidden" value="WRF560SEHV"/>
+<input name="_token" type="hidden" value="fce90d5a35e1360e40d4ad491ae3a1869c8a557662c329a2272fded29447ac31"/>
+<div class="pure-g pure-g-vertical-center">
+<div class="pure-u-1-2 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+                Overall Rating
+            </div>
+<div class="pure-u-1-2 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 rating_selection pure-u-padding">
+<input checked="" id="review_rating_0" name="review_rating" type="radio" value="0"/>
+<label for="review_rating_0">
+<span>Unrated</span>
+</label>
+<input id="review_rating_1" name="review_rating" type="radio" value="1"/>
+<label for="review_rating_1">
+<span>Rate 1 Star</span>
+</label>
+<input id="review_rating_2" name="review_rating" type="radio" value="2"/>
+<label for="review_rating_2">
+<span>Rate 2 Stars</span>
+</label>
+<input id="review_rating_3" name="review_rating" type="radio" value="3"/>
+<label for="review_rating_3">
+<span>Rate 3 Stars</span>
+</label>
+<input id="review_rating_4" name="review_rating" type="radio" value="4"/>
+<label for="review_rating_4">
+<span>Rate 4 Stars</span>
+</label>
+<input id="review_rating_5" name="review_rating" type="radio" value="5"/>
+<label for="review_rating_5">
+<span>Rate 5 Stars</span>
+</label>
+</div>
+</div>
+<div class="pure-g pure-g-vertical-center">
+<div class="pure-u-1-2 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+                Features
+            </div>
+<div class="pure-u-1-2 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 rating_selection pure-u-padding">
+<input checked="" id="performance_rating_0" name="performance_rating" type="radio" value="0"/>
+<label for="performance_rating_0">
+<span>Unrated</span>
+</label>
+<input id="performance_rating_1" name="performance_rating" type="radio" value="1"/>
+<label for="performance_rating_1">
+<span>Rate 1 Star</span>
+</label>
+<input id="performance_rating_2" name="performance_rating" type="radio" value="2"/>
+<label for="performance_rating_2">
+<span>Rate 2 Stars</span>
+</label>
+<input id="performance_rating_3" name="performance_rating" type="radio" value="3"/>
+<label for="performance_rating_3">
+<span>Rate 3 Stars</span>
+</label>
+<input id="performance_rating_4" name="performance_rating" type="radio" value="4"/>
+<label for="performance_rating_4">
+<span>Rate 4 Stars</span>
+</label>
+<input id="performance_rating_5" name="performance_rating" type="radio" value="5"/>
+<label for="performance_rating_5">
+<span>Rate 5 Stars</span>
+</label>
+</div>
+</div>
+<div class="pure-g pure-g-vertical-center">
+<div class="pure-u-1-2 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+                Design
+            </div>
+<div class="pure-u-1-2 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 rating_selection pure-u-padding">
+<input checked="" id="appearance_rating_0" name="appearance_rating" type="radio" value="0"/>
+<label for="appearance_rating_0">
+<span>Unrated</span>
+</label>
+<input id="appearance_rating_1" name="appearance_rating" type="radio" value="1"/>
+<label for="appearance_rating_1">
+<span>Rate 1 Star</span>
+</label>
+<input id="appearance_rating_2" name="appearance_rating" type="radio" value="2"/>
+<label for="appearance_rating_2">
+<span>Rate 2 Stars</span>
+</label>
+<input id="appearance_rating_3" name="appearance_rating" type="radio" value="3"/>
+<label for="appearance_rating_3">
+<span>Rate 3 Stars</span>
+</label>
+<input id="appearance_rating_4" name="appearance_rating" type="radio" value="4"/>
+<label for="appearance_rating_4">
+<span>Rate 4 Stars</span>
+</label>
+<input id="appearance_rating_5" name="appearance_rating" type="radio" value="5"/>
+<label for="appearance_rating_5">
+<span>Rate 5 Stars</span>
+</label>
+</div>
+</div>
+<div class="pure-g pure-g-vertical-center">
+<div class="pure-u-1-2 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+                Value
+            </div>
+<div class="pure-u-1-2 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 rating_selection pure-u-padding">
+<input checked="" id="value_rating_0" name="value_rating" type="radio" value="0"/>
+<label for="value_rating_0">
+<span>Unrated</span>
+</label>
+<input id="value_rating_1" name="value_rating" type="radio" value="1"/>
+<label for="value_rating_1">
+<span>Rate 1 Star</span>
+</label>
+<input id="value_rating_2" name="value_rating" type="radio" value="2"/>
+<label for="value_rating_2">
+<span>Rate 2 Stars</span>
+</label>
+<input id="value_rating_3" name="value_rating" type="radio" value="3"/>
+<label for="value_rating_3">
+<span>Rate 3 Stars</span>
+</label>
+<input id="value_rating_4" name="value_rating" type="radio" value="4"/>
+<label for="value_rating_4">
+<span>Rate 4 Stars</span>
+</label>
+<input id="value_rating_5" name="value_rating" type="radio" value="5"/>
+<label for="value_rating_5">
+<span>Rate 5 Stars</span>
+</label>
+</div>
+</div>
+<div class="pure-g pure-g-vertical-center">
+<div class="pure-u-1 pure-u-padding rating-legend-container">
+<span class="rating-legend">Rating Legend:</span>
+<span class="rating-legend">5 Stars = Excellent</span>
+<span class="rating-legend">4 Stars = Good</span>
+<span class="rating-legend">3 Stars = Average</span>
+<span class="rating-legend">2 Stars = Fair</span>
+<span class="rating-legend">1 Star = Poor</span>
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+<label for="review_title">Review Title <em class="required">*</em></label>
+</div>
+<div class="pure-u-1 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 pure-u-padding">
+<input aria-required="true" class="pure-u-1 pure-u-sm-3-4 pure-u-md-2-3 pure-u-lg-1-2 pure-u-xl-1-3" id="review_title" name="review_title" required="" type="text" value=""/> <span class="pure-form-message-inline">Example: Best Purchase Ever</span>
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+<label for="review_description">Review <em class="required">*</em></label>
+</div>
+<div class="pure-u-1 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 pure-u-padding pure-u-vertical-top">
+<textarea aria-required="true" class="pure-u-1 pure-u-sm-3-4 pure-u-md-2-3 pure-u-lg-1-2 pure-u-xl-1-3" id="review_description" minlength="50" name="review_description" required="" rows="6"></textarea><span class="pure-form-message-inline">Review should be at least 50 characters</span>
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+<label for="pros">Pros</label>
+</div>
+<div class="pure-u-1 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 pure-u-padding">
+<input class="pure-u-1 pure-u-sm-3-4 pure-u-md-2-3 pure-u-lg-1-2 pure-u-xl-1-3" id="pros" name="pros" type="text" value=""/>
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+<label for="cons">Cons</label>
+</div>
+<div class="pure-u-1 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 pure-u-padding">
+<input class="pure-u-1 pure-u-sm-3-4 pure-u-md-2-3 pure-u-lg-1-2 pure-u-xl-1-3" id="cons" name="cons" type="text" value=""/>
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+<label for="location">Location</label>
+</div>
+<div class="pure-u-1 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 pure-u-padding">
+<input class="pure-u-1 pure-u-sm-3-4 pure-u-md-2-3 pure-u-lg-1-2 pure-u-xl-1-3" id="location" name="location" type="text" value=""/> <span class="pure-form-message-inline">Example: Your City, State</span>
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+<label for="name">Name <em class="required">*</em></label>
+</div>
+<div class="pure-u-1 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 pure-u-padding">
+<input aria-required="true" class="pure-u-1 pure-u-sm-3-4 pure-u-md-2-3 pure-u-lg-1-2 pure-u-xl-1-3" id="name" name="name" required="" type="text" value=""/>
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+<label for="email">Email <em class="required">*</em></label>
+</div>
+<div class="pure-u-1 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 pure-u-padding">
+<input aria-required="true" class="pure-u-1 pure-u-sm-3-4 pure-u-md-2-3 pure-u-lg-1-2 pure-u-xl-1-3" id="email" name="email" required="" type="text" value=""/>
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1 pure-u-padding">
+                We will use this email address provided to contact you if we have questions regarding your review. It will not be made public.
+            </div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+<label for="how_long_used">How long have you used this product?</label>
+</div>
+<div class="pure-u-1 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 pure-u-padding">
+<select id="how_long_used" name="how_long_used">
+<option value="">Select</option>
+<option value="0-6 Month">0 - 6 Months</option>
+<option value="6 Month - 1 Year">6 Months - 1 Year</option>
+<option value="Greater then 1 Year">Greater than 1 Year</option>
+</select>
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+<label for="freq_used">Describe your frequency of use</label>
+</div>
+<div class="pure-u-1 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 pure-u-padding">
+<select id="freq_used" name="freq_used">
+<option value="">Select</option>
+<option value="Every Day">Every Day</option>
+<option value="Every Week">Every Week</option>
+<option value="Every Month">Every Month</option>
+</select>
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1 pure-u-sm-1-3 pure-u-md-1-4 pure-u-lg-1-5 pure-u-padding">
+<button class="pure-button pure-button-red submit-review-button" type="submit">Submit Review</button>
+</div>
+<!-- <div class="pure-u-1 pure-u-sm-2-3 pure-u-md-3-4 pure-u-lg-4-5 pure-u-padding review-success-message">
+            </div> -->
+</div>
+</form>
+</div>
+<div class="pure-u-1 pure-u-padding review-success-message"></div> </div> </div>
+</div>
+<div class="pure-u-1">
+<div class="p7AP4-04 p7AP4 ap4-trig-space ap4-animate ap4-noscript product-details-apm" id="p7AP4_1">
+<!-- related items -->
+<p class="p65-warning">CALIFORNIA RESIDENTS ONLY - WARNING: Cancer and Reproductive Harm - <a href="https://www.p65warnings.ca.gov" rel="noopener noreferrer" target="_blank">www.P65Warnings.ca.gov</a></p>
+</div>
+</div>
+<div class="p7MBX-01 p7MBX p7MBXnoscript transparency rounded matting dark no-margin pure-alert pure-alert-error" id="p7MBX_2">
+<ul class="p7mbx-list" id="p7MBXlist_2">
+<li><a class="mbx-cnt" data-mbx-width="50%" href="#p7MBXcnt2_1" title="">Error Message with Close Icon but NO click to close</a></li>
+</ul>
+<script type="text/javascript">P7_MBXop('p7MBX_2',4,600,1,0,8,1,0,1,0,30,0,2,0,1,0,0,0);</script>
+</div>
+<div class="mbx-content-wrapper" id="p7MBXcw_2">
+<div class="p7mbx-content mbx-rounded" id="p7MBXcnt2_1">
+<h3>There was a problem submitting the form.</h3>
+<p>Please correct the following errors and try again.</p>
+<ul id="errorList">
+</ul>
+</div>
+</div>
+<div class="p7MBX-01 p7MBX p7MBXnoscript transparency rounded matting dark no-margin pure-alert" id="p7MBX_3">
+<ul class="p7mbx-list" id="p7MBXlist_3">
+<li><a class="mbx-cnt" data-mbx-width="50%" href="#p7MBXcnt3_1" title="">Ask an Expert Form</a></li>
+</ul>
+<script type="text/javascript">P7_MBXop('p7MBX_3',4,600,1,0,8,1,0,1,0,30,0,2,0,1,0,0,1,0,0);</script>
+</div>
+<div class="mbx-content-wrapper" id="p7MBXcw_3">
+<div class="p7mbx-content mbx-rounded" id="p7MBXcnt3_1">
+<h3><span id="submission_type">Product</span> Inquiry Form</h3>
+<p>Fields marked with an asterisk (<em class="required">*</em>) are required.</p>
+<form action="/refrigeration/french-door/french-door-bottom-freezer-refrigerators/WRF560SEHV/" class="pure-form pure-form-aligned" enctype="application/x-www-form-urlencoded" id="frmInquiry" method="post" name="frmInquiry">
+<fieldset>
+<div class="pure-control-group">
+<label for="Name">Name: <em class="required">*</em></label>
+<input aria-required="true" class="required" id="Name" name="Name" required="" type="text" value=""/>
+</div>
+<div class="pure-control-group">
+<label class="required" for="Email">Email: <em class="required">*</em></label>
+<input aria-required="true" class="required" id="Email" name="Email" required="" type="email" value=""/>
+</div>
+<div class="pure-control-group">
+<label class="required" for="Zip_Code">Zip: <em class="required">*</em></label>
+<input aria-required="true" class="required" id="Zip_Code" name="Zip_Code" required="" type="text" value=""/>
+</div>
+<div class="pure-control-group">
+<label for="Message">Question: <em class="required">*</em></label>
+<textarea aria-required="true" class="required" cols="30" id="Message" name="Message" required="" rows="6"></textarea>
+</div>
+</fieldset>
+<fieldset>
+<legend>Optional Information</legend>
+<div class="pure-control-group">
+<label for="Phone">Phone:</label>
+<input id="Phone" name="Phone" type="tel" value=""/>
+</div>
+<div class="pure-control-group">
+<label for="Mobile">Mobile:</label>
+<input id="Mobile" name="Mobile" type="tel" value=""/>
+</div>
+<div class="hidden">
+<label for="addblock">Please Ignore this Field</label>
+<input id="addblock" name="addblock" type="text" value=""/>
+</div>
+<div class="hidden">
+<label for="secondblock">Please Ignore this Field</label>
+<input id="secondblock" name="secondblock" type="text" value=""/>
+</div>
+</fieldset>
+<fieldset>
+<legend>Captcha</legend>
+<div class="pure-controls">
+<div class="g-recaptcha" data-sitekey="6LelXxcTAAAAAAAjxgXiFpSZcV0fuo7zt85cl43G"></div>
+</div>
+</fieldset>
+<fieldset>
+<div class="pure-controls">
+<button class="pure-button pure-button-red" type="submit">Submit</button> <button class="pure-button pure-button-white cancel-button" type="button">Cancel</button>
+<input id="Model" name="Model" title="Model" type="hidden" value="WRF560SEHV">
+<input id="Product" name="Product" title="product" type="hidden" value=" 30-inch Wide French Door Refrigerator - 20 cu. ft.">
+<input name="WebPrice" type="hidden" value="1,799.00">
+<input id="InquiryType" name="InquiryType" type="hidden" value="Product">
+<input name="_token" type="hidden" value="fce90d5a35e1360e40d4ad491ae3a1869c8a557662c329a2272fded29447ac31"/>
+</input></input></input></input></div>
+</fieldset>
+</form>
+</div>
+</div>
+<div class="p7MBX-01 p7MBX p7MBXnoscript transparency rounded matting dark no-margin pure-alert pure-alert-success" id="p7MBX_6">
+<ul class="p7mbx-list" id="p7MBXlist_6">
+<li><a class="mbx-cnt" data-mbx-width="50%" href="#p7MBXcnt6_1" title="">Success Message with Close Icon and click to close</a></li>
+</ul>
+<script type="text/javascript">P7_MBXop('p7MBX_6',1,600,1,0,8,1,0,1,0,60,0,2,0,1,0,0,1,0);</script>
+</div>
+<div class="mbx-content-wrapper" id="p7MBXcw_6">
+<div class="p7mbx-content mbx-rounded" id="p7MBXcnt6_1">
+<div class="inquiry-success-message"></div>
+</div>
+</div>
+<div class="item-added-popup-outer tracking-normal" data-item-id="" id="item-added-popup-main">
+<div class="item-added-popup-inner">
+<div class="item-added-top">
+<div class="item-added-image"><img/></div><!--
+--><div class="item-added-text">
+<div class="item-added-checkmark"><img src="/_site-files/pages/cart-pages/img/check-icon.svg"/><span>Added to Cart</span></div>
+<div class="item-added-name"><span class="item-added-brand"></span> <span class="item-added-description"></span></div>
+<div class="item-added-model-sku"><span>Model#</span> <span class="item-added-model-value"></span></div>
+<button class="item-added-popup-close">x</button>
+</div>
+</div>
+<div class="item-added-middle" style="">
+<div id="item-add-zip-container" style="">
+<div id="item-add-zip-header"><span>Enter Zip Code</span><span>*</span><span>For delivery options</span></div>
+<div id="item-zip-container"><input autocomplete="off" id="zipcode" maxlength="5" placeholder="My zip code is…" type="text"><button id="add-zip-code-button">Add Zip Code</button></input></div>
+<div id="item-zip-error"></div>
+</div>
+<div id="item-zip-added-container" style="display:none">
+<span>Zip Code</span><span id="current-zip"></span><button id="change-zip-code-button">Change</button>
+</div>
+</div>
+<div class="item-added-bottom">
+<div class="item-added-buttons">
+<a class="item-added-cart-button item-added-cart-button-disabled" href="#"><img src="/_site-files/pages/cart-pages/img/lock-icon.svg"/><span>Start Checkout</span></a>
+<a class="item-added-continue-button" href="#">Continue Shopping</a>
+</div>
+<div class="item-added-message">Final discounts, tax, and shipping costs at checkout.</div>
+</div>
+</div>
+</div>
+<style type="text/css">
+
+.item-added-popup-outer {
+    position: fixed;
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 999999999;
+    display: none;
+}
+
+.item-added-popup-inner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #707070;
+    background-color: white;
+    box-sizing: border-box;
+    line-height: 1.5;
+}
+
+.item-added-top {
+    padding: 20px;
+    border-bottom: 2px solid #DA1206;
+}
+
+.item-added-image {
+    display: inline-block;
+    vertical-align: middle;
+    width: 12.5%;
+    margin: 0 2.5% 0 0;
+}
+
+.item-added-image img {
+    width: 100%;
+}
+
+.item-added-text {
+    display: inline-block;
+    vertical-align: middle;
+    width: 85%;
+}
+
+.item-added-checkmark {
+    font-size: 24px;
+    font-weight: 700;
+    color: #038800;
+}
+
+.item-added-checkmark img {
+    display: inline-block;
+    vertical-align: middle;
+    width: 22px;
+    margin: 0 10px 0 0;
+}
+
+.item-added-checkmark span {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.item-added-name {
+    margin: 20px 0;
+    font-size: 22px;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.item-added-brand {
+    font-weight: 700;
+}
+
+.item-added-model-sku {
+    font-size: 14px;
+    color: #676767;
+    font-weight: 700;
+}
+
+.item-added-model-sku span {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.item-added-model-value {
+    margin: 0 20px 0 0;
+    font-weight: normal;
+}
+
+.item-added-popup-close {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    color: #676767;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 30px;
+    font-family: inherit;
+}
+
+.item-added-middle {
+    padding: 40px 20px;
+}
+
+#item-add-zip-container {
+
+}
+
+#item-add-zip-header {
+    margin: 0 0 10px 0;
+}
+
+#item-add-zip-header span:nth-child(1) {
+    font-weight: 700;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#item-add-zip-header span:nth-child(2) {
+    display: inline-block;
+    vertical-align: super;
+    color: #DA1206;
+    margin: 0 15px 0 0;
+}
+
+#item-add-zip-header span:nth-child(3) {
+    font-size: 16px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#item-zip-container {
+    width: 40%;
+    border-radius: 6px;
+}
+
+#zipcode {
+    width: 65%;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 6px 0 0 6px;
+    font-size: inherit;
+    font-family: inherit;
+    border: 1px solid #676767;
+    border-right: none;
+    box-sizing: border-box;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 10px;
+    transition: none;
+    margin: 0 0 0 0;
+}
+
+.invalid-zip {
+    border: 2px solid #DA1206 !important;
+    border-right: none !important;
+}
+
+#add-zip-code-button {
+    width: 35%;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 0 6px 6px 0;
+    font-size: inherit;
+    font-family: inherit;
+    border: 1px solid #2A4496;
+    color: white;
+    background-color: #2A4496;
+    cursor: pointer;
+    box-sizing: border-box;
+    height: 50px;
+    line-height: 50px;
+}
+
+#item-zip-error {
+    margin: 15px 0 0 0;
+    color: #DA1206;
+}
+
+#item-zip-added-container {
+
+}
+
+#item-zip-added-container span:nth-child(1) {
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#item-zip-added-container span:nth-child(2) {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 0 3px 0;
+    border-bottom: 1px dashed #CCCCCC;
+    margin: 0 20px 0 10px;
+    font-size: 18px;
+}
+
+#change-zip-code-button {
+    display: inline-block;
+    vertical-align: middle;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+    color: #676767;
+    font-size: 12px;
+    font-family: inherit;
+    border: none;
+}
+
+.item-added-bottom {
+    padding: 20px;
+    background-color: #F7F7F7;
+}
+
+.item-added-buttons {
+    margin: 0 0 15px 0;
+}
+
+.item-added-cart-button {
+    text-align: center;
+    background-color: #088A06;
+    border: 2px solid #036901;
+    min-width: 200px;
+    padding: 10px;
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 6px;
+    margin: 0 20px 0 0;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.item-added-cart-button-disabled {
+    background-color: #F3C2BD !important;
+    border: none !important;
+    color: white !important;
+}
+
+.item-added-cart-button img {
+    display: inline-block;
+    vertical-align: middle;
+    width: 15px;
+    margin: 0 20px 0 0;
+}
+
+.item-added-cart-button span {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.item-added-cart-button:visited {
+    color: white;
+}
+
+.item-added-continue-button {
+    text-align: center;
+    background-color: white;
+    border: 2px solid #676767;
+    min-width: 150px;
+    padding: 10px;
+    color: #676767;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.item-added-continue-button:visited {
+    color: #676767;
+}
+
+.item-added-message {
+    color: #676767;
+    font-size: 14px;
+}
+
+@media screen and (min-width:300px) and (max-width:768px) {
+    .item-added-popup-inner  {
+        width: 90%;
+    }
+}
+
+@media screen and (min-width:769px) {
+    .item-added-popup-inner  {
+        width: 50%;
+    }
+}
+
+</style>
+<script>
+
+var _ADD_CART_AJAX_URL = '/_site-files/pages/cart-pages/cart-ajax.php',
+    _ADD_CART_MAIN_CART_PAGE = '/cart',
+    _ADD_CART_IS_CART_MODE = 1;
+
+document.querySelector(".item-added-popup-close").addEventListener('click', function() {
+    document.querySelector("#item-added-popup-main").style.display = 'none';
+});
+
+document.querySelector(".item-added-continue-button").addEventListener('click', function() {
+    document.querySelector("#item-added-popup-main").style.display = 'none';
+});
+
+document.querySelector("#add-zip-code-button").addEventListener('click', function() {
+    var zip = document.querySelector("#zipcode").value,
+        xhr,
+        formdata,
+        zipcode_regex = /(^\d{5}$)|(^\d{5}-\d{4}$)/;
+
+    document.querySelector("#zipcode").classList.remove('invalid-zip');
+
+    if(!zipcode_regex.test(zip)) {
+        document.querySelector("#zipcode").classList.add('invalid-zip');
+        return;
+    }
+
+    formdata = new FormData();
+    formdata.append('operation', 'setZipCode');
+    formdata.append('zip', zip);
+
+    document.querySelector("#add-zip-code-button").disabled = true;
+
+    xhr = new XMLHttpRequest();
+    xhr.open('POST', _ADD_CART_AJAX_URL);
+    xhr.onreadystatechange = function () {
+        if(xhr.readyState == 4) {
+            var response = JSON.parse(xhr.responseText);
+            document.querySelector("#add-zip-code-button").disabled = false;
+
+            if(xhr.status == 200) {
+                if('updated' in response) {
+                    document.querySelector("#item-add-zip-container").style.display = 'none';
+                    document.querySelector("#zipcode").value = '';
+
+                    document.querySelector("#item-zip-added-container").style.display = 'block';
+                    document.querySelector("#current-zip").innerHTML = zip;
+                    document.querySelector(".item-added-cart-button").href = _ADD_CART_MAIN_CART_PAGE;
+                    document.querySelector(".item-added-cart-button").classList.remove('item-added-cart-button-disabled');
+                }
+            }
+            else if(xhr.status == 400) {
+                document.querySelector("#item-zip-error").innerHTML = response.message;
+                document.querySelector("#item-zip-error").style.display = 'block';
+                setTimeout(function() {
+                    document.querySelector("#item-zip-error").style.display = 'none';
+                }, 10000);
+                document.querySelector(".item-added-cart-button").href = '#';
+                document.querySelector(".item-added-cart-button").classList.add('item-added-cart-button-disabled');
+            }
+        }
+    };
+    xhr.send(formdata);
+});
+
+document.querySelector("#change-zip-code-button").addEventListener('click', function() {
+    document.querySelector("#item-add-zip-container").style.display = 'block';
+    document.querySelector("#item-zip-added-container").style.display = 'none';
+});
+
+(function () {
+    for (var i = 0; i < document.querySelectorAll(".add-cart-form").length; i++) {
+        document
+            .querySelectorAll(".add-cart-form")
+            [i].addEventListener("submit", addProduct);
+    }
+
+    if (_ADD_CART_IS_CART_MODE == 0) {
+        for (
+            var i = 0;
+            i < document.querySelectorAll(".product-model-add-cart").length;
+            i++
+        ) {
+            if (
+                document.querySelectorAll(".product-model-add-cart")[i].tagName ==
+                "BUTTON"
+            )
+                document.querySelectorAll(".product-model-add-cart")[i].innerHTML =
+                    "Add to Quote";
+            else if (
+                document.querySelectorAll(".product-model-add-cart")[i].tagName ==
+                "INPUT"
+            )
+                document.querySelectorAll(".product-model-add-cart")[i].value =
+                "Add to Quote";
+        }
+    }
+})();
+
+function addProduct(e) {
+    var product_id = this.getAttribute("data-product-id"),
+        is_outlet = (this.hasAttribute("data-outlet") ? this.getAttribute("data-outlet") : 0),
+        quantity = (this.querySelector(".quantity") === null ? 1 : this.querySelector(".quantity").value),
+        warranty = (this.querySelector(".warrantyChoiceRadio") === null ? "0" : this.querySelector(".warrantyChoiceRadio:checked").value),
+        addonsCheckboxes = this.querySelectorAll("input[name='addons']"),
+        xhr,
+        formdata,
+        addons = [],
+        that = this;
+
+    formdata = new FormData();
+    formdata.append("operation", "addProduct");
+    formdata.append("id", product_id);
+    formdata.append("quantity", quantity);
+    formdata.append("outlet", is_outlet);
+
+    if (warranty != "0")
+        formdata.append("warranty", warranty);
+
+    addonsCheckboxes.forEach(function (element) {
+        if (element.checked) {
+            addons.push(element.value);
+        }
+    });
+
+    if (addons.length)
+        formdata.append("addons", addons.join("-"));
+
+    this.querySelector(".product-model-add-cart").disabled = true;
+
+    xhr = new XMLHttpRequest();
+    xhr.open('POST', _ADD_CART_AJAX_URL);
+    xhr.onreadystatechange = function () {
+        if(xhr.readyState == 4) {
+            var response = JSON.parse(xhr.responseText);
+            that.querySelector(".product-model-add-cart").disabled = false;
+
+            if(xhr.status == 200) {
+                dataLayer.push({ ecommerce: null });  // Clear the previous ecommerce object.
+					
+						
+                    dataLayer.push({
+                        'event': 'addToCart',
+                        'ecommerce': {
+                            'add': {
+                                "products": [
+                                {
+                                  
+                                  "name": response.info.ModelDescription,
+                                  "id": response.info.id,
+                                  "price": response.info.Sale,
+                                  "brand": response.info.CommonBrandName,
+                                  "category": response.info.cSlug,
+                                  "quantity": response.added
+                                }
+                              ]
+                            }
+                        }
+                    });
+
+                if('added' in response) {
+                    document.querySelector("#item-added-popup-main .item-added-image img").setAttribute('src', response.info.thumb);
+                    document.querySelector("#item-added-popup-main .item-added-brand").innerHTML = response.info.CommonBrandName;
+                    document.querySelector("#item-added-popup-main .item-added-description").innerHTML = response.info.ModelDescription;
+                    document.querySelector("#item-added-popup-main .item-added-model-value").innerHTML = response.info.SKU;
+                    if (!Object.is(document.querySelector(".modal-epic-wrapper"), null)){
+                        document.querySelector(".modal-epic-wrapper").setAttribute("pid", response.info.unique_item_id);    //This is for Pop-up Modal warranty selection; PDP; anupam
+                    }
+
+                    document.querySelector("#item-added-popup-main").style.display = 'block';
+                    document.querySelector("#item-added-popup-main").setAttribute('data-item-id', response.item_id);
+
+                    if(!document.querySelector(".item-added-cart-button").classList.contains('item-added-cart-button-disabled'))
+                        document.querySelector(".item-added-cart-button").href = _ADD_CART_MAIN_CART_PAGE;
+
+                    if(document.querySelector("#num-cart-items") !== null)
+                        document.querySelector("#num-cart-items").innerHTML = response.num_cart_items;
+                    if(document.querySelector("#cart-subtotal") !== null)
+                        document.querySelector("#cart-subtotal").innerHTML = '$' + response.cart_subtotal;
+                    if(document.querySelector("#cart-sidebar") !== null)
+                        document.querySelector("#cart-sidebar").setAttribute('data-init', '0');
+                }
+            }
+            else if(xhr.status == 400) {
+                that.querySelector(".cart-add-error").innerHTML = response.message;
+                that.querySelector(".cart-add-error").style.display = 'block';
+                setTimeout(function() {
+                    that.querySelector(".cart-add-error").style.display = 'none';
+                }, 3000);
+            }
+        }
+    };
+    xhr.send(formdata);
+
+    e.preventDefault();
+    return false;
+}
+</script>
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', (e)=>{
+      try {
+        var warranties_list = [{"name":"5 Year","amount":"$264.99","value":"5_year","years":"5"},{"name":"3 Year","amount":"$162.99","value":"3_year","years":"3"}];
+
+        var modal_wrapper = document.createElement("div");
+        modal_wrapper.classList.add("modal-epic-wrapper");
+
+
+        var html = '<div class="modal-epic-header">';
+        html +=       '<span class="modal-epic-header-text epic-text">Add Product Protection</span>';
+        html +=       '<span class="epic-info">i</span>';
+        html +=     '</div>';
+        html +=     '<div class="modal-epic-body">';
+
+        for(var i=0; i<warranties_list.length; i++) {
+          html +=      '<div class="warranties-list-modal" value="' + warranties_list[i]['value'] + '">';
+          html +=        '<span><span>' + warranties_list[i]['name'] + '</span><span class="warranty_amount">' + warranties_list[i]['amount'] + '</span></span>';
+          html +=      '</div>';
+        }
+
+        html +=     '</div>';
+
+        modal_wrapper.innerHTML = html;
+
+        var addons_list = [];
+        var modal_addons_wrapper = document.createElement("div");
+        modal_addons_wrapper.classList.add("modal-addons-wrapper");
+
+
+        if (addons_list) {
+
+          var html = '<div class="pure-g">';
+          html +=      '<div class="pure-u-1">';
+          html +=        '<span class="modal-epic-header-text epic-text" style="margin-left: 0;">';
+          html +=          'Add Parts and Accesories';
+          html +=        '</span>';
+          html +=      '</div>';
+          html +=    '</div>';
+          html +=    '<div class="pure-u-1 pdp-product-accessories-parts expanded">';
+          var k = 1;
+          for(var i=0; i<addons_list.length; i++) {
+            html +=    '<label class="pure-checkbox" for="addons_'+ k +'">';
+            html +=      '<input ';
+            html +=        'type="checkbox" ';
+            html +=        'name="addons" ';
+            html +=        'value="'+addons_list[i]['id']+'" id="addons_'+ k +'" ';
+            html +=        'class="addon-checkbox" ';
+            html +=      '>';
+            html +=      ' ' + addons_list[i]['description'] + " " + addons_list[i]['price'] +' ';
+            html +=    '</label>';
+            k++;
+          }
+
+          html +=    '</div>';
+
+          modal_addons_wrapper.innerHTML = html;
+
+        }
+
+        var parentEle = document.querySelector('.item-added-middle');
+        var ibEle = document.querySelector('#item-add-zip-container');
+        parentEle.insertBefore(modal_wrapper, ibEle);
+        parentEle.insertBefore(modal_addons_wrapper, ibEle);
+
+
+        document.querySelectorAll('.warranties-list-modal').forEach(e=>{
+          e.addEventListener("click", ee=>{
+            console.log(ee);
+
+            var ele = document.querySelectorAll('.warranties-list-modal');
+            for(var i=0; i<ele.length; i++) {
+              ele[i].classList.remove("selected");
+            }
+
+            ee.target.closest('.warranties-list-modal').classList.add('selected');
+
+            var formdata = new FormData();
+            formdata.append('operation', 'updateProductWarrantyFromCart');
+            formdata.append('item_id', document.querySelector('.modal-epic-wrapper').getAttribute("pid"));
+            formdata.append('warranty_id',document.querySelector('.selected').getAttribute("value"));
+
+            console.log(formdata);
+
+            xhr = new XMLHttpRequest();
+            xhr.open('POST', "/_site-files/pages/cart-pages/cart-ajax.php");
+            xhr.onreadystatechange = function () {
+                if(xhr.readyState == 4) {
+                    var response = JSON.parse(xhr.responseText);
+                    that.querySelector(".product-model-add-cart").disabled = false;
+
+                    if(xhr.status == 200) {
+                        if('added' in response) {
+
+                        }
+                    }
+                    else if(xhr.status == 400) {
+
+                    }
+                }
+            };
+            xhr.send(formdata);
+          });
+        });
+      }
+      catch(e) {
+        console.error('Failed warranty modal');
+      }
+    });
+  </script>
+<div class="warranty-modal-test"></div>
+<script type="text/javascript">
+  // <![CDATA[
+  var apm = [];
+
+    /**
+     * Get the value of a querystring
+     * @param  {String} field The field to get the value of
+     * @param  {String} url   The URL to get the value from (optional)
+     * @return {String}       The field value
+     */
+    var getQueryString = function ( field, url ) {
+        var href = url ? url : window.location.href;
+        var reg = new RegExp( '[?&]' + field + '=([^&#]*)', 'i' );
+        var string = reg.exec(href);
+        return string ? string[1] : null;
+    };
+
+  ///*-- Initial load into page --*///
+  ready(function(){
+  var storedAPM = sessionStorage.getItem("storedAPM"); // check if any APM's are stored
+    if(storedAPM){
+      apm = JSON.parse(storedAPM);
+      // open apm panels as necessary
+      apm.forEach(function(item, index, array) { //
+        //console.log(item, index);
+        var filterList = document.getElementById(item); // get list id console.log(filterList);
+        if(!filterList) return; // if the filter is not present on this page then go to next item in loop
+        var closestAPM = filterList.closest('.p7AP4cwrapper'); // find apm trigger id (if applicable)
+        //console.log(closestAPM);
+        var container = closestAPM.getAttribute('id'); // find container  console.log(container);
+        var trig = container.replace("w", "t"); // set up correct id for PVII control console.log(trig);
+        P7_AP4control(trig,'open');
+
+      });
+    }
+  });
+  ///*-- Initial load into page --*///
+
+  var elementsPopover = document.querySelectorAll('[data-content]'); // also a certain class would go fine
+
+  //define some variables or get their values from other scripts
+  var someTitleFromOtherCode = 'Price match guarantee';
+  var someContentFromOuterSpace = '';
+
+  // attach a popover for each
+  for (var i = 0; i < elementsPopover.length; i++){
+    new Popover(elementsPopover[i], { // where .popover-via-template is the text input
+      trigger: 'click',
+      animation : 'slideNfade',
+      placement: 'left',
+      delay: '200',
+      dismissible: true, // boolean
+      template: '<div class="popover" role="tooltip">'
+      + '<div class="arrow"></div>'
+      + '<h3 class="popover-title">'+someTitleFromOtherCode+'<button type="button" class="close">×</button></h3>'
+      + '<div class="popover-content">'+someContentFromOuterSpace+'</div>'
+      + '</div>'
+    });
+  }
+
+
+  document.addEventListener('click', function(event) {
+
+    //console.log(event.target);
+    //console.log(event.target.closest('.LoopSwapImage'));
+
+    //event.preventDefault();
+    var target = event.target; // get the event target (what `this` would refer to in jQuery)
+
+    if(target.classList.contains('reviewPaginationLink')){ // look at making this nicer!!
+      event.preventDefault();
+      console.log(target);
+
+            var queryString = target.getAttribute("href");
+            console.log(queryString);
+
+            var formData = "pageNum_rsProductReviews=" + getQueryString('pageNum_rsProductReviews',queryString) + "&totalRows_rsProductReviews=" + getQueryString('totalRows_rsProductReviews',queryString) + "&SKU=WRF560SEHV";
+
+      //var formData = buildQuery(assembleQueryString);
+            console.log(formData);
+
+      var xhr = new XMLHttpRequest();
+      xhr.open('POST','/_site-files/form-target-files/reviews-pagination.php?'+formData);
+      xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState !== 4 ) return; // Only run if the request is complete
+        if (xhr.status === 200 ) { // Process our return data
+          console.log(xhr);
+
+          // on success clear form & disable submit button so review can't be submitted again and show thank you message
+          var resp = JSON.parse(xhr.responseText);
+          console.log(resp);
+          console.log(resp.result);
+          //console.log(resp.error);
+          var result = resp.result.toLowerCase();
+          if(result.indexOf("success") > -1){
+                        document.getElementById("reviewsContainer").innerHTML = resp.html;
+                        document.getElementById("prevReviewsLink").setAttribute('href', resp.prevLink);
+                        document.getElementById("nextReviewsLink").setAttribute('href', resp.nextLink);
+
+          } else {
+            // add error message
+
+          }
+        } else { // What do when the request fails
+          //console.log('The request failed!');
+        }
+        // Code that should run regardless of the request status
+        // console.log('This always runs...');
+      };
+      xhr.send();
+
+    }
+
+
+    if(target.classList.contains('LoopImageSwap')){ // look at making this nicer!!
+      event.preventDefault();
+      // console.log(target);
+      var dataImage = target.getAttribute('data-image');
+      // console.log(dataImage);
+
+      var targetImage = document.querySelector('#LoopImageSwapTarget');
+      targetImage.src = dataImage+'?imgeng=/w_800/h_800/m_letterbox_ffffff_100';
+
+    }
+
+    var target = event.target; // get the event target (what `this` would refer to in jQuery)
+
+    if(target.classList.contains('PopImageSwap')){ // look at making this nicer!!
+      event.preventDefault();
+      console.log(target);
+      var dataImage = target.getAttribute('data-image');
+      console.log(dataImage);
+
+      var targetImage = document.querySelector('#PopImageSwapTarget');
+      targetImage.src = dataImage+'?imgeng=/w_500/h_500/m_letterbox_ffffff_100';
+
+    }
+
+    if(target.classList.contains('product-details-see-more')){
+      event.preventDefault();
+
+      sessionStorage.removeItem('storedAPM'); // remove any panels currently stored
+
+      var container = target.getAttribute("data-apm");
+      //console.log(container);
+      removeFromArray(apm,container);  // update APM state - remove from array by default
+      apm.push(container); // update APM state
+      sessionStorage.setItem("storedAPM",  JSON.stringify(apm)); // set sessionStorage item with current list of open APM's
+      window.location.assign(target.getAttribute("href"));
+
+    }
+
+    if(target.classList.contains('ask-an-expert')){
+      event.preventDefault();
+      // open panel
+      P7_MBXctrl('p7MBX_3',1);
+    }
+
+    if(target.classList.contains('price-request')){
+      event.preventDefault();
+      // Update Form
+      document.querySelector('#submission_type').innerHTML = 'Price';
+      document.querySelector('#Message').value = 'Please supply your best price for Whirlpool 30-inch Wide French Door Refrigerator - 20 cu. ft. Model #WRF560SEHV';
+      document.querySelector('#InquiryType').value = 'Price';
+      // open panel
+      P7_MBXctrl('p7MBX_3',1);
+    }
+
+    if(target.classList.contains('cancel-button')){
+      event.preventDefault();
+      // reset form
+      document.getElementById("frmInquiry").reset();
+      // close panel
+      P7_MBXctrl('p7MBX_3','close');
+    }
+
+    if(target.classList.contains('continue-shopping')){
+      event.preventDefault();
+      P7_MBXctrl('p7MBX_4','close');
+    }
+
+    if(target.classList.contains('start-checkout')){
+      event.preventDefault();
+
+      window.location.href = 'http://www.woodcocks.us/cart/item-added/' + target.getAttribute( 'data-id' ) + '/';
+    }
+
+    if(target.classList.contains('check-zip-code')){ // Add to cart
+
+      event.preventDefault();
+
+            var closestForm  = target.closest("form"); //console.log(closestForm);
+      var action       = closestForm.getAttribute('action'); //console.log(action);
+      var assembleQueryString = {
+        deliveryCheck: closestForm.querySelector("input[name='deliveryCheck']").value,
+        url: target.getAttribute('data-url'),
+        xhr: 1
+      };
+
+      var formData = buildQuery(assembleQueryString); console.log(formData);
+
+      var xhr = new XMLHttpRequest();
+      xhr.open('POST','/_site-files/form-target-files/delivery-check.php');
+      if(window.location.hostname == 'woodcocksappliances.siteontime.com'){
+              }
+      xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState !== 4 ) return; // Only run if the request is complete
+        if (xhr.status === 200 ) { // Process our return data
+          console.log(xhr);
+
+          // on success clear form & disable submit button so review can't be submitted again and show thank you message
+          var resp = JSON.parse(xhr.responseText);
+          console.log(resp);
+          console.log(resp.result);
+          //console.log(resp.error);
+          var result = resp.result.toLowerCase();
+          if(result.indexOf("success") > -1){
+
+            var button = document.querySelector('.check-zip-code'); console.log(button);
+            button.classList.add('pure-button-white','pure-button-border-color-green','pure-button-text-color-green');
+            button.classList.remove('pure-button-blue-dark','pure-button-border-color-blue-dark');
+            button.innerHTML = 'Added';
+            document.querySelector('.start-checkout').classList.add('pure-button-red','pure-button-border-color-red');
+            document.querySelector('.start-checkout').classList.remove('pure-button-disabled','pure-button-text-color-black');
+
+          } else {
+            // add error message
+
+          }
+        } else { // What do when the request fails
+          //console.log('The request failed!');
+        }
+        // Code that should run regardless of the request status
+        // console.log('This always runs...');
+      };
+      xhr.send(encodeURI(formData));
+
+        }
+
+  }, false);
+
+document.addEventListener("DOMContentLoaded", function () {
+    const reviewForm = document.querySelector("#frmReviews");
+
+    if (!reviewForm) {
+      return;
+    }
+
+    reviewForm.onsubmit = function (event) {
+        event.preventDefault();
+        var target = event.target;
+        var action = target.getAttribute("action");
+        var formData = i8_serializeForm(frmReviews); // serialize form data for transmission
+        formData =
+            formData + "&url=" + target.getAttribute("data-url") + "&xhr=1";
+
+        // check that required fields are filled
+
+        console.log(formData);
+        var xhr = new XMLHttpRequest();
+        xhr.open("POST", "/_site-files/form-target-files/add-review.php");
+
+        if (window.location.hostname == "woodcocksappliances.siteontime.com") {
+                  }
+        xhr.setRequestHeader(
+            "Content-Type",
+            "application/x-www-form-urlencoded"
+        );
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState !== 4) return; // Only run if the request is complete
+            if (xhr.status === 200) {
+                // Process our return data
+                console.log(xhr);
+
+                // on success clear form & disable submit button so review can't be submitted again and show thank you message
+                var resp = JSON.parse(xhr.responseText);
+                var result = resp.result.toLowerCase();
+
+                if (result.indexOf("success") > -1) {
+                    //document.querySelector('.submit-review-button').classList.add('pure-button-disabled');
+                    document.querySelector(
+                        ".review-success-message"
+                    ).innerHTML =
+                        '<div class="pure-alert pure-alert-success">Thank you, your review has been successfully submitted. If we have any questions we will be in touch.</div>';
+                } else {
+                    // show errors
+                    var errorList = "";
+                    for (var i = 0; i < resp.error.length; i++) {
+                        // loop thru all elements
+                        console.log(resp.error[i]);
+                        errorList = errorList + resp.error[i];
+                    }
+                    document.getElementById("errorList").innerHTML = errorList;
+                    // open panel
+                    P7_MBXctrl("p7MBX_2", 1);
+                }
+            } else {
+                // What do when the request fails
+                //console.log('The request failed!');
+            }
+            // Code that should run regardless of the request status
+            // console.log('This always runs...');
+        };
+        xhr.send(encodeURI(formData));
+    };
+});
+
+  document.querySelector('#frmInquiry').onsubmit = function(event){
+
+    event.preventDefault();
+    var target    = event.target;
+    var action    = target.getAttribute('action');
+    var formData  = i8_serializeForm(frmInquiry); // serialize form data for transmission
+    formData = formData + '&url=' + target.getAttribute('data-url') + '&xhr=1';
+
+    // check that required fields are filled
+
+    //console.log(formData);
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST','/_site-files/form-target-files/product-inquiry.php');
+    if(window.location.hostname == 'woodcocksappliances.siteontime.com'){
+          }
+    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    xhr.onreadystatechange = function () {
+      if (xhr.readyState !== 4 ) return; // Only run if the request is complete
+      if (xhr.status === 200 ) { // Process our return data
+        console.log(xhr);
+
+        // on success clear form & disable submit button so review can't be submitted again and show thank you message
+        var resp = JSON.parse(xhr.responseText);
+        //console.log(resp);
+        //console.log(resp.result);
+        //console.log(resp.error);
+
+        var result = resp.result.toLowerCase();
+        if(result.indexOf("success") > -1){
+          P7_MBXctrl('p7MBX_3','close');
+          document.getElementById("frmInquiry").reset(); // reset form
+          document.querySelector('.inquiry-success-message').innerHTML = '<p>Thank you, your inquiry has been successfully submitted. We will be in touch shortly.</p>';
+          P7_MBXctrl('p7MBX_6',1);
+          setTimeout(function(){P7_MBXctrl('p7MBX_6','close'); document.querySelector('.inquiry-success-message').innerHTML = ''; }, 5000);
+        } else {
+          // show errors
+          var errorList = "";
+          for(var i = 0; i < resp.error.length; i++) { // loop thru all elements
+            console.log(resp.error[i]);
+            errorList = errorList + resp.error[i];
+          }
+          document.getElementById('errorList').innerHTML = errorList;
+          // open panel
+          P7_MBXctrl('p7MBX_2',1);
+
+        }
+      } else { // What do when the request fails
+        //console.log('The request failed!');
+      }
+      // Code that should run regardless of the request status
+      // console.log('This always runs...');
+    };
+    xhr.send(encodeURI(formData));
+
+  }
+
+
+  document.addEventListener('input', function(event) { // use "input" to detect real time changes in select menu https://gomakethings.com/detecting-select-menu-changes-with-vanilla-js/?mc_cid=2711bab01c&mc_eid=e53d11b2a6
+
+    //event.preventDefault();
+    var target = event.target; // get the event target (what `this` would refer to in jQuery)
+    //console.log(target.name);
+    if (target.name === 'ratingSort') {
+      var closestForm = target.closest('.pure-form'); // find form
+      docCookies.setItem("sortByRating", target.value, maxAgeToGMT(604800));
+      //closestForm.submit();
+      window.location.href = '/refrigeration/french-door/french-door-bottom-freezer-refrigerators/WRF560SEHV/?ap4=1_7';
+    }
+
+  }, false);
+
+  addToCompare.init();
+  //'<span class="selected-warranty-amount">' . $rsProductWarranties->getColumnVal("2_year") . '</span>';
+
+  document.querySelectorAll('input[name="warranty"]').forEach((e)=>{
+    e.addEventListener("click", (ee)=>{
+      var length = document.querySelectorAll('input[name="warranty"]').length;
+      var length_modal = document.querySelectorAll('.warranties-list-modal').length;
+      var html;
+      for(i=0; i<length; i++) {
+        document.querySelectorAll('input[name="warranty"]')[i].checked = false;
+      }
+      document.querySelector('#'+ee.target.id).checked = true;
+      if(document.querySelector('#'+ee.target.id).getAttribute("value") != 0) {
+        html = document.querySelector('#'+ee.target.id).getAttribute("warranty") + " " + document.querySelector('#'+ee.target.id).getAttribute("amount");
+        document.querySelector('.epic-selected-plan').innerHTML = html;
+      }
+      else {
+        document.querySelector('.epic-selected-plan').innerHTML = '';
+      }
+
+      for(i=0; i<length_modal; i++) {
+        if(document.querySelectorAll('.warranties-list-modal')[i].getAttribute("value") == document.querySelector('#'+ee.target.id).getAttribute("value")) {
+          document.querySelectorAll('.warranties-list-modal')[i].classList.add("selected");
+        }
+        else {
+          document.querySelectorAll('.warranties-list-modal')[i].classList.remove("selected");
+        }
+      }
+    });
+  });
+
+  document.addEventListener('DOMContentLoaded', (e)=>{
+    var length = document.querySelectorAll('input[name="warranty"]').length;
+    var html, ele;
+    for(i=0; i<length; i++) {
+      if(document.querySelectorAll('input[name="warranty"]')[i].checked) {
+        ele = document.querySelectorAll('input[name="warranty"]')[i];
+        html = ele.getAttribute("warranty") + " " + ele.getAttribute("amount");
+        document.querySelector('.epic-selected-plan').innerHTML = html;
+        document.querySelectorAll('.warranties-list-modal')[i].classList.add("selected");
+      }
+    }
+  });
+
+    /* UNCOMMENT TO ALLOW GTAG ECOMMERCE TRACKING */
+    /*
+    // send view event
+    gtag('event', 'view_item', {
+        "items": [
+            {
+                "id": "WRF560SEHV",
+                "name": "30-inch Wide French Door Refrigerator - 20 cu. ft.",
+                "list_name": "Product Details",
+                "brand": "Whirlpool",
+                "category": "French Door: Freestanding",
+                "variant": "Black Stainless Steel",
+                "list_position": 1,
+                "quantity": 1,
+                "price": '1799.00'
+            }
+        ]
+    });
+    */
+/* Start GTag Enhanced E-Commerce Tracking */
+//GTM EEC added per MR : https://www.wrike.com/open.htm?id=1238593251 --10/31/2023 David Hall
+
+dataLayer.push({ ecommerce: null });  // Clear the previous ecommerce object.
+dataLayer.push({
+  'event' : 'detail_view',
+  'ecommerce': {
+    'detail': {
+      'actionField': {},    // 'detail' actions have an optional list property.
+      'products': [{
+        'name': "30-inch Wide French Door Refrigerator - 20 cu. ft.", // Name or ID is required.
+        'id': "WRF560SEHV",
+        'price' : "1,799.00",
+        'brand': 'Whirlpool',
+        'category': "french-door",
+        'variant': "Black Stainless Steel"
+       }]
+     }
+   }
+});
+/* End GTag Enhanced E-Commerce Tracking */
+
+
+// ]]>
+</script>
+<script async="" defer="" src="https://www.google.com/recaptcha/api.js"></script>
+<script src="//code.jquery.com/jquery-1.11.0.min.js" type="text/javascript"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+<script src="/_scr/slick/slick.min.js" type="text/javascript"></script>
+<script src="/_scr/slick/slick-wc.js" type="text/javascript"></script>
+<script>
+window.addEventListener("DOMContentLoaded", function () {
+    var btnProductAddons = document.querySelector(".js-btn-product-addons");
+    var productAccessories = document.querySelector(
+        ".pdp-product-accessories-parts"
+    );
+
+    function toggleClass(element) {
+        element.classList.toggle("expanded");
+    }
+
+    function handleClick(targetElement, collapsibleElement) {
+        toggleClass(collapsibleElement);
+        toggleClass(targetElement);
+    }
+
+    if (!btnProductAddons) {
+        return;
+    }
+
+    btnProductAddons.addEventListener("click", function (event) {
+        handleClick(event.currentTarget, productAccessories);
+    });
+});
+
+function ExpandableSection(toggle, expandable) {
+    this.html = document.documentElement;
+    this.toggle = toggle;
+    this.expandable = expandable;
+
+    this.toggle.addEventListener("click", this.handleClick.bind(this));
+    this.html.style.scrollBehavior = "smooth";
+}
+
+ExpandableSection.prototype.handleClick = function (event) {
+    this.expandable.classList.toggle("expanded");
+    this.toggle.classList.toggle("expanded");
+
+    if (!this.toggle.classList.contains("expanded")) {
+        event.preventDefault();
+    }
+};
+
+document.addEventListener("DOMContentLoaded", function () {
+    const toggleExpandable = document.querySelectorAll(".js-toggle-expandable");
+    const toggleShowReviewForm = document.querySelector(
+        ".js-toggle-show-review-form"
+    );
+    const reviewFormContainer = document.querySelector(
+        ".js-review-form-container"
+    );
+
+    Array.prototype.slice.call(toggleExpandable).forEach(function (toggle) {
+        const expandable = toggle.parentElement.parentElement.querySelector(
+            "div.js-expandable-section"
+        );
+
+        new ExpandableSection(toggle, expandable);
+    });
+
+    if (!toggleShowReviewForm) {
+        return;
+    }
+
+    toggleShowReviewForm.addEventListener("click", function () {
+        reviewFormContainer.classList.add("expanded");
+    });
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+    const transparentOverlay = Woodcocks.UI.TransparentOverlay.init(
+        document.getElementById("woodcocksTransparentOverlay")
+    );
+    const contentOverlay = Woodcocks.UI.ContentOverlay.init(
+        document.getElementById("woodcocksContentOverlay")
+    );
+    const featuresWrapper = document.querySelector(".pdp-details-section");
+    const youtubeTemplate = document.getElementById(
+        "woodcocksYouTubeEmbeddedVideo"
+    );
+    const mp4Template = document.getElementById(
+        "woodcocksMP4EmbeddedVideo"
+    );
+
+    function buildContent(url) {
+        const isYouTube = /youtube|vimeo/i.test(url);
+        const template = isYouTube ? youtubeTemplate : mp4Template;
+        const clone = template.content.cloneNode(true);
+
+        if (isYouTube) {
+            const iframe = clone.querySelector("iframe");
+            iframe.src = url;
+        } else {
+            const video = clone.querySelector("video");
+            video.src = url;
+        }
+
+        return clone;
+    }
+
+    transparentOverlay.listen("woodcocks:content-overlay:closed");
+    featuresWrapper.addEventListener("click", function (event) {
+        if (!event.target.matches(".js-play-video")) {
+            return;
+        }
+
+        event.preventDefault();
+        contentOverlay.setContent(buildContent(event.target.dataset.url));
+        transparentOverlay.show();
+        contentOverlay.show();
+    });
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+    Woodcocks.BankingInfoDisplay.init();
+});
+</script> </div>
+<!-- end page content -->
+<!--Email-->
+<div class="pure-u-1 flex justify-center" style="background-color: #26252c;">
+<div class="hidden email-signup-success">
+<h2>Thank You for Subscribing!</h2>
+</div>
+<div class="email-signup">
+<form action="POST" class="pure-form pure-g subscribe-form" id="subscribe-form">
+<input name="_token" type="hidden" value="fce90d5a35e1360e40d4ad491ae3a1869c8a557662c329a2272fded29447ac31"/>
+<div class="pure-u-1">
+<h2><img alt="" src="/uploads/files/icon-mail.svg"/> JOIN OUR EMAIL LIST</h2>
+</div>
+<div class="pure-u-13-24 flex justify-between items-center">
+<input class="text-white bg-transparent w-full border border-solid border-white outline-none focus:text-white focus:placeholder-white m-0" placeholder="Email Address *" required="" type="email"/>
+</div>
+<div class="pure-u-11-24 flex justify-between items-center">
+<button class="w-full text-white ml-2.5" style="margin: 0 0 0 0.625rem" type="submit">Subscribe</button>
+</div>
+</form>
+</div>
+</div>
+<!-- start footer -->
+<div class="pure-u-1 light-grey-bg footer">
+<!-- yellow footer -->
+<div class="footer-inner-box">
+<div class="pure-g">
+<div class="pure-u-1 pure-u-md-8-24 pure-u-lg-4-24 footer-links">
+<div class="logo-wrap"><img alt="Woodcocks" src="/_site-files/img/homepage/logo-woodcocks.png"/></div>
+</div>
+<div class="pure-u-1 pure-u-md-8-24 pure-u-lg-3-24 footer-links">
+<h3 class="footer-links-title">Shop</h3>
+<ul class="pure-menu-list">
+<li class="pure-menu-item">
+<a class="pure-menu-link" href="/refrigeration/" title="Refrigerators">Refrigerators</a>
+</li>
+<li class="pure-menu-item">
+<a class="pure-menu-link" href="/cooking/" title="Cooking">Cooking</a>
+</li>
+<li class="pure-menu-item">
+<a class="pure-menu-link" href="/laundry/" title="Laundry">Laundry</a>
+</li>
+<li class="pure-menu-item">
+<a class="pure-menu-link" href="/dishwashers/" title="Dishwashers">Dishwashers</a>
+</li>
+<li class="pure-menu-item">
+<a class="pure-menu-link" href="/air-conditioners/air-conditioners/" title="Air Control">Air Control</a>
+</li>
+<li class="pure-menu-item">
+<a class="pure-menu-link" href="/grills-bbqs-outdoor-cooking/" title="BBQ">BBQ</a>
+</li>
+<li class="pure-menu-item">
+<a class="pure-menu-link" href="/brands/" title="Shop by Brand">Shop by Brand</a>
+</li>
+<li class="pure-menu-item">
+<a class="pure-menu-link" href="/luxury-appliances/" title="Luxury Appliances">Luxury Appliances</a>
+</li>
+</ul>
+</div>
+<div class="pure-u-1 pure-u-md-8-24 pure-u-lg-4-24 footer-links">
+<h3 class="footer-links-title">STORE INFO</h3>
+<ul class="pure-menu-list">
+<li class="pure-menu-item"><a class="pure-menu-link" href="/about-us/">About Us</a></li>
+<li class="pure-menu-item"><a class="pure-menu-link" href="/financing/">Financing</a></li>
+<li class="pure-menu-item"><a class="pure-menu-link" href="/builder/">Builders</a></li>
+<li class="pure-menu-item"><a class="pure-menu-link" href="tel:+1-305-200-5204">Schedule An Appointment</a></li>
+<li class="pure-menu-item"><a class="pure-menu-link" href="/blog/">Blog</a></li>
+<li class="pure-menu-item"><a class="pure-menu-link" href="/stores/">Location</a></li>
+<li class="pure-menu-item"><a class="pure-menu-link" href="/login/?next=%2Fmy-account%2F">Account</a></li>
+<li class="pure-menu-item"><a class="pure-menu-link" href="/terms-and-conditions/">Terms and Conditions</a></li>
+</ul>
+</div>
+<div class="pure-u-1 pure-u-md-8-24 pure-u-lg-3-24 footer-links">
+<h3 class="footer-links-title">CONTACT US</h3>
+<div class="pure-menu">
+<p> <a href="https://www.google.com/maps/place/Woodcocks+Appliances/@25.8147918,-80.3250745,17z/data=!4m15!1m8!3m7!1s0x88d9bbd523224d97:0xa24ff10ce6954f8c!2s7770+NW+46th+St,+Doral,+FL+33166!3b1!8m2!3d25.8147918!4d-80.3224996!16s%2Fg%2F11c5m2hh0v!3m5!1s0x88d9bf43e8e83acf:0x38379f5318dfa110!8m2!3d25.8147918!4d-80.3224996!16s%2Fg%2F11h07kr77k?entry=ttu">7770 NW 46Th ST<br/>DORAL, FL 33166</a></p><p> <a href="tel:+1(305) 200-5204"> +1(305) 200-5204</a></p><p><a href="mailto:info@woodcocks.us"> info@woodcocks.us</a></p> </div>
+</div>
+<div class="pure-u-1 pure-u-md-8-24 pure-u-lg-5-24 footer-links">
+<h3 class="footer-links-title">HOURS</h3>
+<div class="pure-menu">
+            Mon — Fri: 9:00 AM - 6:00 PM<br/>
+Sat: 10:00 AM - 2:00 PM<br/>
+Sun: Closed<br/>
+</div>
+</div>
+<div class="pure-u-1 pure-u-md-8-24 pure-u-lg-4-24 footer-links">
+<h3 class="footer-links-title">CONNECT WITH US</h3>
+<ul class="pure-menu-list footer-social-icons">
+<li class="pure-menu-item"><a class="pure-menu-link pure-hover-light-grey" href="https://www.linkedin.com/company/woodcocks" rel="nofollow noreferrer" target="_blank"><img alt="LinkedIn " height="23" src="/uploads/slides/Footer Social Icons/iconin.png" width="23"/></a></li><li class="pure-menu-item"><a class="pure-menu-link pure-hover-light-grey" href="https://www.facebook.com/profile.php?id=100085429684197" rel="nofollow noreferrer" target="_blank"><img alt="Facebook" height="23" src="/uploads/slides/Footer Social Icons/iconfb.png" width="23"/></a></li><li class="pure-menu-item"><a class="pure-menu-link pure-hover-light-grey" href="https://instagram.com/woodcocks.us?igshid=MzRlODBiNWFlZA==" rel="nofollow noreferrer" target="_blank"><img alt="Instagram" height="23" src="/uploads/slides/Footer Social Icons/iconig.png" width="23"/></a></li><li class="pure-menu-item"><a class="pure-menu-link pure-hover-light-grey" href="https://www.youtube.com/channel/UCHOeikdvR9Tq3vqpS9diNOA" rel="nofollow noreferrer" target="_blank"><img alt="YouTube" height="23" src="/uploads/slides/Footer Social Icons/iconyt.png" width="23"/></a></li> </ul>
+<h3 class="secure"><a href="/stores/">SE HABLA ESPAÑOL</a></h3>
+<img alt="Secure Payment " height="47" src="/uploads/slides/Secure Payment/iconsecurepayment.png" width="162"> </img></div>
+</div>
+</div>
+<div class="serve-areas">
+<!-- <p><strong>AREAS WE SERVE</strong>: <a href="/boca-raton/">Boca Raton</a>, Cape Coral, <a href="/coral-gables/">Coral Gables</a>. <a href="/delray-beach/">Delray Beach</a>, <a href="/doral/">Doral</a>, <a href="/fort-lauderdale/">Fort Lauderdale</a>, <a href="/gladeview/">Gladeview</a>, <a href="/hialeah/">Hialeah</a>, <a href="/hollywood/">Hollywood</a>, Marco Island, <a href="/pinewood/">Pinewood</a>, Palm Coast, <a href="/west-little-river/">West Little River</a>, <a href="/west-palm-beach/">West Palm Beach</a>, <a href="/palm-springs/">Palm Springs</a>, <a href="/palm-beach-county/">Palm Beach County</a>, <a href="/miami-springs/">Miami Springs</a>, <a href="/miami/">Miami</a>, <a href="/key-biscayne/">Key Biscayne</a>, <a href="/key-largo/">Key Largo</a>, <a href="/key-west/">Key West</a>, <a href="/weston/">Weston</a>, <a href="/pembroke-pines/">Pembroke Pines</a>, <a href="/miami-shores/">Miami Shores</a>, <a href="/south-miami/">South Miami</a>, Ft Mayer's, <a href="/naples/">Naples</a> and surrounding areas.</p> -->
+<p><strong>AREAS WE SERVE</strong>: <a href="/boca-raton/">Boca Raton</a>, Cape Coral, <a href="/coral-gables/">Coral Gables</a>. <a href="/delray-beach/">Delray Beach</a>, <a href="/doral/">Doral</a>, <a href="/fort-lauderdale/">Fort Lauderdale</a>, Ft Mayer's, <a href="/gladeview/">Gladeview</a>, <a href="/hialeah/">Hialeah</a>, <a href="/hollywood/">Hollywood</a>, <a href="/key-biscayne/">Key Biscayne</a>, <a href="/key-largo/">Key Largo</a>, <a href="/key-west/">Key West</a>, Marco Island, <a href="/miami-shores/">Miami Shores</a>, <a href="/miami-springs/">Miami Springs</a>, <a href="/naples/">Naples</a>, <a href="/palm-beach-county/">Palm Beach County</a>, Palm Coast, <a href="/palm-springs/">Palm Springs</a>, <a href="/pembroke-pines/">Pembroke Pines</a>, <a href="/pinewood/">Pinewood</a>, <a href="/south-miami/">South Miami</a>, <a href="/west-little-river/">West Little River</a>, <a href="/west-palm-beach/">West Palm Beach</a>, <a href="/weston/">Weston</a> and surrounding areas.</p>
+</div>
+</div>
+<div class="pure-u-1 pure-u-centered footer-copyright light-grey-bg">
+<!-- copyright -->
+<p class="copyright">Copyright ©
+      2009 - 2025      Woodcocks Appliances All Rights Reserved.
+    </p>
+<div class="terms-policy">
+<ul class="pure-menu-list">
+<li class="pure-menu-item"><a class="pure-menu-link" href="/terms-of-use/">Terms of Use</a></li>
+<li class="pure-menu-item"><a class="pure-menu-link" href="/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- mini cart -->
+<div class="p7SOP sop-noscript sop-white sop-borders sop-nopad sop-trans mini-cart" data-sop="p7SOP_100,1,600px,600px,320px,1,400,1002,1,0,0,1,1,1,1,0" id="p7SOP_100">
+<div class="sop-scroll-arrow"><a class="sop-scroll-up" href="#" id="p7SOPtp_100"><i>Top</i><img alt="" height="27" src="/_site-files/pvii/p7sop/img/scroll-dark.png" width="23"/></a></div>
+<div class="sop-wrapper" id="p7SOPw_100">
+<div class="sop-close-icon"><a class="sop-close sop-dark" href="#" id="p7SOPcl_100"><i>Close</i><img alt="" height="24" src="/_site-files/pvii/p7sop/img/close-dark.png" width="24"/></a></div>
+<div class="sop-content">
+<h3>Your Cart</h3>
+<p>Items in Cart:<strong> 0</strong></p>
+</div>
+</div>
+</div>
+<script async="" src="https://www.google.com/recaptcha/api.js"></script>
+<!-- Cart Sidebar : Start -->
+<div class="cart-sidebar-closed" data-init="0" id="cart-sidebar"><iframe id="cart-sidebar-iframe" src="/_site-files/pages/cart-pages/cart-sidebar.php"></iframe></div>
+<script type="text/javascript">
+
+(function() {
+    for(var i=0; i<document.querySelectorAll(".menu-cart").length; i++) {
+        document.querySelectorAll(".menu-cart")[i].addEventListener('click', openCartSidebar);
+    }
+})();
+
+window.addEventListener('message', function(e) {
+	if(e.data == 'CLOSE') {
+    	closeCartSidebar();
+  	}
+});
+
+function closeCartSidebar() {
+	document.querySelector("#cart-sidebar").classList.add('cart-sidebar-closed');
+}
+
+function openCartSidebar() {
+	document.querySelector("#cart-sidebar").classList.remove('cart-sidebar-closed');
+	if(document.querySelector("#cart-sidebar").getAttribute('data-init') == '0') {
+		document.querySelector('#cart-sidebar-iframe').contentWindow.postMessage('REFRESH', "*");
+		document.querySelector("#cart-sidebar").setAttribute('data-init', '1');
+	}
+}
+
+</script>
+<style type="text/css">
+
+#cart-sidebar {
+	position: fixed;
+	top: 0;
+	right: 0;
+	width: 20%;
+	height: 100%;
+	z-index: 10999; /* updated to give a much larger z-index D.B. on 4th Oct 2021 */
+	background-color: rgba(255,255,255,0.95);
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+	transition: transform 0.5s;
+}
+
+.cart-sidebar-closed {
+	transform: translateX(105%);
+}
+
+#cart-sidebar-iframe {
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+@media screen and (max-width: 900px) {
+    #cart-sidebar { width: 80%; }
+}
+
+</style><!-- Cart Sidebar : End -->
+<div class="p7DDM ddm-menu ddm-noscript ddm-from-left ddm-DIVIDER ddm-BG-black ddm-LNKBG-black ddm-HVBG-white ddm-LTXT-white ddm-HVTXT-black mobile-navigation-menu" data-ddm="10,3,500,3,500,1,900,0,1,1,0,0,0,2,0,500" id="p7DDM_10">
+<div class="ddm-tools">
+<div class="ddm-close">
+<a aria-label="Close Menu" class="ddm-close-button" href="#" id="p7DDMtc_10">×︎</a>
+</div>
+</div>
+<div class="ddm-root ddm-open ddm-flow">
+<ul>
+<li>
+<a class="ddm-item ddm-trigger ddm-first" href="#">SHOP</a>
+<div class="ddm-sub">
+<span>SHOP</span> <a class="ddm-back" href="#">Back</a>
+<ul>
+<li>
+<a class="ddm-item ddm-trigger" href="/refrigeration/">Refrigerators</a>
+<div class="ddm-sub">
+<span>Refrigerators</span>
+<a class="ddm-back" href="#">Back</a>
+<ul>
+<li><a class="ddm-item" href="/refrigeration/side-by-side">Side by Side</a></li>
+<li><a class="ddm-item" href="/refrigeration/french-door">French Door</a></li>
+<li><a class="ddm-item" href="/refrigeration/bottom-freezer">Bottom Freezer</a></li>
+<li><a class="ddm-item" href="/refrigeration/top-mount">Top Mount</a></li>
+<li><a class="ddm-item" href="/refrigeration/built-in">Built In</a></li>
+<li><a class="ddm-item" href="/refrigeration/specialty">Specialty</a></li>
+<li><a class="ddm-item" href="/refrigeration/freezers">Freezers</a></li>
+<li><a class="ddm-item" href="/refrigeration/refrigerator-accessories">Refrigerator Accessories</a></li>
+<li><a class="ddm-item" href="/refrigeration/">All Refrigerators</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a class="ddm-item ddm-trigger" href="/cooking/">Cooking</a>
+<div class="ddm-sub">
+<span>Cooking</span>
+<a class="ddm-back" href="#">Back</a>
+<ul>
+<li><a class="ddm-item" href="/cooking/ranges">Ranges</a></li>
+<li><a class="ddm-item" href="/cooking/ovens">Ovens</a></li>
+<li><a class="ddm-item" href="/cooking/cooktops">Cooktops</a></li>
+<li><a class="ddm-item" href="/cooking/hoods">Hoods</a></li>
+<li><a class="ddm-item" href="/cooking/microwaves">Microwaves</a></li>
+<li><a class="ddm-item" href="/cooking/cooking-accessories">Accessories</a></li>
+<li><a class="ddm-item" href="/cooking/">All Cooking</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a class="ddm-item ddm-trigger" href="/laundry/">Laundry</a>
+<div class="ddm-sub">
+<span>Laundry</span>
+<a class="ddm-back" href="#">Back</a>
+<ul>
+<li><a class="ddm-item" href="/laundry/washers">Washers</a></li>
+<li><a class="ddm-item" href="/laundry/dryers">Dryers</a></li>
+<li><a class="ddm-item" href="/laundry/laundry-accessories">Laundry Accessories</a></li>
+<li><a class="ddm-item" href="/laundry/stack-laundry">Stack Laundry</a></li>
+<li><a class="ddm-item" href="/laundry/">All Laundry</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a class="ddm-item ddm-trigger" href="/dishwashers/">Dishwashers</a>
+<div class="ddm-sub">
+<span>Dishwashers</span>
+<a class="ddm-back" href="#">Back</a>
+<ul>
+<li><a class="ddm-item" href="/dishwashers/food-disposal">Food Disposal</a></li>
+<li><a class="ddm-item" href="/dishwashers/dishwashers">Dishwashers</a></li>
+<li><a class="ddm-item" href="/dishwashers/">All Dishwashers</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a class="ddm-item ddm-trigger" href="/air-conditioners/">Air Control</a>
+<div class="ddm-sub">
+<span>Air Control</span>
+<a class="ddm-back" href="#">Back</a>
+<ul>
+<li><a class="ddm-item" href="/air-conditioners/air-conditioners">Air Conditioners</a></li>
+<li><a class="ddm-item" href="/air-conditioners/dehumidifiers">Dehumidifiers</a></li>
+<li><a class="ddm-item" href="/air-conditioners/">All Air Control</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a class="ddm-item ddm-trigger" href="/grills-bbqs-outdoor-cooking/">BBQ</a>
+<div class="ddm-sub">
+<span>BBQ</span>
+<a class="ddm-back" href="#">Back</a>
+<ul>
+<li><a class="ddm-item" href="/grills-bbqs-outdoor-cooking/grills">Grills</a></li>
+<li><a class="ddm-item" href="/grills-bbqs-outdoor-cooking/">All BBQ</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a class="ddm-item ddm-trigger" href="/outdoor-furniture/">Outdoor Furniture</a>
+<div class="ddm-sub">
+<span>Outdoor Furniture</span>
+<a class="ddm-back" href="#">Back</a>
+<ul>
+<li><a class="ddm-item" href="/outdoor-furniture/patio-furniture">Patio Furniture</a></li>
+<li><a class="ddm-item" href="/outdoor-furniture/">All Outdoor Furniture</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a class="ddm-item" href="/packages">Packages</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a class="ddm-item ddm-trigger" href="#">FEATURED BRANDS</a>
+<div class="ddm-sub">
+<span>FEATURED BRANDS</span> <a class="ddm-back" href="#">Back</a>
+<ul>
+<li>
+<a class="ddm-item" href="/bosch/">Bosch</a>
+</li>
+<li>
+<a class="ddm-item" href="/electrolux/">Electrolux</a>
+</li>
+<li>
+<a class="ddm-item" href="/frigidaire/">Frigidaire</a>
+</li>
+<li>
+<a class="ddm-item" href="/frigidaire-professional/">Frigidaire Pro</a>
+</li>
+<li>
+<a class="ddm-item" href="/ge/">GE</a>
+</li>
+<li>
+<a class="ddm-item" href="/kitchenaid/">KitchenAid</a>
+</li>
+<li>
+<a class="ddm-item" href="/lg-appliances/">LG</a>
+</li>
+<li>
+<a class="ddm-item" href="/maytag/">Maytag</a>
+</li>
+<li>
+<a class="ddm-item" href="/samsung/">Samsung</a>
+</li>
+<li>
+<a class="ddm-item" href="/whirlpool/">Whirlpool</a>
+</li>
+<li>
+<a class="ddm-item ddm-trigger ddm-last" href="#">ALL BRANDS</a>
+<div class="ddm-sub">
+<ul>
+<li>
+<a class="ddm-item" href="/alfresco">Alfresco</a>
+</li>
+<li>
+<a class="ddm-item" href="/amana">Amana</a>
+</li>
+<li>
+<a class="ddm-item" href="/asko">Asko</a>
+</li>
+<li>
+<a class="ddm-item" href="/avanti">Avanti</a>
+</li>
+<li>
+<a class="ddm-item" href="/azure-home-products">Azure Home Products</a>
+</li>
+<li>
+<a class="ddm-item" href="/bertazzoni">Bertazzoni</a>
+</li>
+<li>
+<a class="ddm-item" href="/bosch">Bosch</a>
+</li>
+<li>
+<a class="ddm-item" href="/breda">Breda</a>
+</li>
+<li>
+<a class="ddm-item" href="/cafe-appliances">Cafe Appliances</a>
+</li>
+<li>
+<a class="ddm-item" href="/coyote">Coyote</a>
+</li>
+<li>
+<a class="ddm-item" href="/dacor">Dacor</a>
+</li>
+<li>
+<a class="ddm-item" href="/dcs">Dcs</a>
+</li>
+<li>
+<a class="ddm-item" href="/delta-heat">Delta Heat</a>
+</li>
+<li>
+<a class="ddm-item" href="/electrolux">Electrolux</a>
+</li>
+<li>
+<a class="ddm-item" href="/falmec">Falmec</a>
+</li>
+<li>
+<a class="ddm-item" href="/fhiaba">Fhiaba</a>
+</li>
+<li>
+<a class="ddm-item" href="/fisher-paykel">Fisher &amp; Paykel</a>
+</li>
+<li>
+<a class="ddm-item" href="/frigidaire">Frigidaire</a>
+</li>
+<li>
+<a class="ddm-item" href="/frigidaire-professional">Frigidaire Pro</a>
+</li>
+<li>
+<a class="ddm-item" href="/fulgor-milano">Fulgor Milano</a>
+</li>
+<li>
+<a class="ddm-item" href="/ge">GE</a>
+</li>
+<li>
+<a class="ddm-item" href="/ge-profile">GE Profile</a>
+</li>
+<li>
+<a class="ddm-item" href="/gladiator">Gladiator</a>
+</li>
+<li>
+<a class="ddm-item" href="/haier">Haier</a>
+</li>
+<li>
+<a class="ddm-item" href="/hestan">Hestan</a>
+</li>
+<li>
+<a class="ddm-item" href="/hotpoint">Hotpoint</a>
+</li>
+<li>
+<a class="ddm-item" href="/kitchenaid">KitchenAid</a>
+</li>
+<li>
+<a class="ddm-item" href="/lg-appliances">LG</a>
+</li>
+<li>
+<a class="ddm-item" href="/lg-studio">LG Studio</a>
+</li>
+<li>
+<a class="ddm-item" href="/liebherr">Liebherr</a>
+</li>
+<li>
+<a class="ddm-item" href="/marvel">Marvel</a>
+</li>
+<li>
+<a class="ddm-item" href="/maytag">Maytag</a>
+</li>
+<li>
+<a class="ddm-item" href="/monogram">Monogram</a>
+</li>
+<li>
+<a class="ddm-item" href="/napoleon-bbq">Napoleon BBQ</a>
+</li>
+<li>
+<a class="ddm-item" href="/perlick">Perlick</a>
+</li>
+<li>
+<a class="ddm-item" href="/samsung">Samsung</a>
+</li>
+<li>
+<a class="ddm-item" href="/signature-kitchen-suite">Signature Kitchen Suite</a>
+</li>
+<li>
+<a class="ddm-item" href="/smeg">Smeg</a>
+</li>
+<li>
+<a class="ddm-item" href="/speed-queen">Speed Queen</a>
+</li>
+<li>
+<a class="ddm-item" href="/summit">Summit</a>
+</li>
+<li>
+<a class="ddm-item" href="/thor-kitchen">Thor Kitchen</a>
+</li>
+<li>
+<a class="ddm-item" href="/twin-eagles">Twin Eagles</a>
+</li>
+<li>
+<a class="ddm-item" href="/u-line">U-Line</a>
+</li>
+<li>
+<a class="ddm-item" href="/ventahood">Ventahood</a>
+</li>
+<li>
+<a class="ddm-item" href="/whirlpool">Whirlpool</a>
+</li>
+<li>
+<a class="ddm-item" href="/whirlpool-commercial">Whirlpool Commercial</a>
+</li>
+<li>
+<a class="ddm-item" href="/xo-appliance">Xo Appliance</a>
+</li>
+<li>
+<a class="ddm-item" href="/zephyr">Zephyr</a>
+</li>
+<li>
+<a class="ddm-item" href="/zline-kitchen-and-bath">Zline Kitchen And Bath</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a class="ddm-item" href="/promotions/">PROMOTIONS</a>
+</li>
+<li>
+<a class="ddm-item" href="/stores/">LOCATION</a>
+</li>
+<!-- Hided on 2023-07-11 - https://www.wrike.com/open.htm?id=1157218838 -->
+<!--<li>
+                <a href="/service/" class="ddm-item">SERVICES</a>
+            </li>-->
+<li>
+<!--<a href="#" class="ddm-item ddm-last js-contact-us">CONTACT US</a>-->
+<a class="ddm-item ddm-last" href="/contact-us/">CONTACT US</a>
+</li>
+</ul>
+</div>
+</div><div class="pbx-panel" id="p7PBXp_205301">
+<div class="pbx-content pbx-white pbx-rounded pbx-shadow" id="p7PBXw_205301">
+<div class="pbx-close pbx-black-close"><a href="#" id="p7PBXcl_205301">Close</a></div>
+<p><strong>Sign Up For Savings Today!</strong> </p>
+</div>
+</div>
+<div class="pbx-panel" id="p7PBXp_1">
+<div class="pbx-content pbx-white pbx-shadow pbx-nopad" id="p7PBXw_1">
+<div class="pbx-close pbx-white-close"><a href="#" id="p7PBXcl_1">Close</a></div>
+<div class="pure-g mega-menu">
+<div class="pure-u-1-2 pure-u-md-1-3 pure-u-lg-1-4 pure-u-padding pure-menu"><ul class="pure-menu-list"> <li class="pure-menu-item"><a class="pure-menu-link pure-menu-heading pure-font-strong pure-hover-red" href="/refrigeration/">Refrigeration</a><ul><li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/refrigeration/side-by-side/">Side by Side</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/refrigeration/french-door/">French Door</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/refrigeration/bottom-freezer/">Bottom Freezer</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/refrigeration/top-mount/">Top Mount</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/refrigeration/built-in/">Built In</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/refrigeration/specialty/">Specialty</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/refrigeration/freezers/">Freezers</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/refrigeration/refrigerator-accessories/">Refrigerator Accessories</a></li> </ul></li></ul></div><div class="pure-u-1-2 pure-u-md-1-3 pure-u-lg-1-4 pure-u-padding pure-menu"><ul class="pure-menu-list"><li class="pure-menu-item"><a class="pure-menu-link pure-menu-heading pure-font-strong pure-hover-red" href="/cooking/">Cooking</a><ul><li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/cooking/ranges/">Ranges</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/cooking/ovens/">Ovens</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/cooking/cooktops/">Cooktops</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/cooking/hoods/">Hoods</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/cooking/microwaves/">Microwaves</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/cooking/cooking-accessories/">Accessories</a></li> </ul></li></ul></div><div class="pure-u-1-2 pure-u-md-1-3 pure-u-lg-1-4 pure-u-padding pure-menu"><ul class="pure-menu-list"><li class="pure-menu-item"><a class="pure-menu-link pure-menu-heading pure-font-strong pure-hover-red" href="/laundry/">Laundry</a><ul><li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/laundry/washers/">Washers</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/laundry/dryers/">Dryers</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/laundry/laundry-accessories/">Laundry Accessories</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/laundry/stack-laundry/">Stack Laundry</a></li> </ul></li></ul></div><div class="pure-u-1-2 pure-u-md-1-3 pure-u-lg-1-4 pure-u-padding pure-menu"><ul class="pure-menu-list"><li class="pure-menu-item"><a class="pure-menu-link pure-menu-heading pure-font-strong pure-hover-red" href="/dishwashers/">Dishwashers</a><ul><li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/dishwashers/food-disposal/">Food Disposal</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/dishwashers/dishwashers/">Dishwashers</a></li> </ul></li></ul></div><div class="pure-u-1-2 pure-u-md-1-3 pure-u-lg-1-4 pure-u-padding pure-menu"><ul class="pure-menu-list"><li class="pure-menu-item"><a class="pure-menu-link pure-menu-heading pure-font-strong pure-hover-red" href="/grills-bbqs-outdoor-cooking/">Outdoor</a><ul><li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/grills-bbqs-outdoor-cooking/grills/">Grills</a></li> </ul></li></ul></div><div class="pure-u-1-2 pure-u-md-1-3 pure-u-lg-1-4 pure-u-padding pure-menu"><ul class="pure-menu-list"><li class="pure-menu-item"><a class="pure-menu-link pure-menu-heading pure-font-strong pure-hover-red" href="/air-conditioners/">Air Conditioners</a><ul><li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/air-conditioners/air-conditioners/">Air Conditioners</a></li> <li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/air-conditioners/dehumidifiers/">Dehumidifiers</a></li> </ul></li></ul></div><div class="pure-u-1-2 pure-u-md-1-3 pure-u-lg-1-4 pure-u-padding pure-menu"><ul class="pure-menu-list"><li class="pure-menu-item"><a class="pure-menu-link pure-menu-heading pure-font-strong pure-hover-red" href="/outdoor-furniture/">Outdoor Furniture</a><ul><li class="pure-menu-item"><a class="pure-menu-link pure-hover-red" href="/outdoor-furniture/patio-furniture/">Patio Furniture</a></li> </ul></li></ul> </div>
+</div>
+</div>
+<div class="p7MBX-01 p7MBX p7MBXnoscript transparency light search-box" id="p7MBX_1">
+<ul class="p7mbx-list" id="p7MBXlist_1">
+<li><a class="mbx-cnt" data-mbx-max-w="1280" data-mbx-width="100%" href="#p7MBXcnt1_1" title="">Search</a></li>
+</ul>
+<script type="text/javascript">P7_MBXop('p7MBX_1',1,600,1,0,8,1,0,0,0,124,0,2,0,1,0,0,1,0,0);</script>
+</div>
+<div class="mbx-content-wrapper" id="p7MBXcw_1">
+<div class="p7mbx-content" id="p7MBXcnt1_1">
+<form action="/search/" class="pure-form" id="product-search" method="get" name="product-search">
+<input autocapitalize="off" autocomplete="off" autocorrect="off" class="pure-input-1" id="mobile-search" name="q" placeholder="Search" spellcheck="false" title="Search for Products" type="text" value=""/>
+<input name="filter" type="hidden" value="true"/>
+</form>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+  // <![CDATA[
+  // updated by D.B. as per https://www.wrike.com/open.htm?id=930542209 on 17th Aug 2022
+  ///*-- initialise desktop autocomplete --*///
+  new autoComplete({
+  selector: '#desktop-search',
+  source: function(term, response){
+    dataString = "q="+term;
+    xhr = new XMLHttpRequest();
+    xhr.open('POST','/_site-files/form-target-files/autocomplete.php');
+    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    xhr.onreadystatechange = function () {
+    if ( xhr.readyState !== 4 ) return; // Only run if the request is complete
+    if ( xhr.status === 200 ) { // Process our return data
+      //console.log(xhr);
+      data = JSON.parse(xhr.responseText);
+      //console.log(data);
+      var suggestions = [];
+      for (i=0;i<data.length;i++)
+        suggestions.push(data[i]);
+        response(suggestions);
+      } else {
+      // What do when the request fails
+      // add error reporting
+      //console.log('The request failed!');
+    }
+    };
+    xhr.send(encodeURI(dataString));
+  },
+  renderItem: function (item, search){
+    search = search.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&amp;');
+    var re = new RegExp("(" + search.split(' ').join('|') + ")", "gi");
+    return '<div class="autocomplete-suggestion" data-name="'+item.SKU+'" data-val="'+search+'">'+item.ModelDescription.replace(re, "<b>$1<\/b>")+'<\/div>';
+  },
+  onSelect: function(e, term, item){
+    e.preventDefault(); // stop form submission when pressing return / enter
+    document.querySelector('#desktop-search').value = item.getAttribute('data-name');
+    var closestForm = document.querySelector('#desktop-search').closest('form');
+    //console.log(closestForm);_site-files/pages/product-pages/super-category-page.php
+    xhr = new XMLHttpRequest();
+    xhr.open('POST','/_site-files/form-target-files/autocomplete.php');
+    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    xhr.onreadystatechange = function () {
+    if ( xhr.readyState !== 4 ) return; // Only run if the request is complete
+    if ( xhr.status === 200 ) { // Process our return data
+      //console.log(xhr);
+      data = JSON.parse(xhr.responseText);
+      //console.log(data);
+      var suggestions = [];
+      for (i=0;i<data.length;i++)
+        suggestions.push(data[i]);
+        response(suggestions);
+      } else {
+      // What do when the request fails
+      // add error reporting
+      //console.log('The request failed!');
+    }
+    };
+    xhr.send(encodeURI(dataString));
+  },
+  renderItem: function (item, search){
+    search = search.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&amp;');
+    var re = new RegExp("(" + search.split(' ').join('|') + ")", "gi");
+    return '<div class="autocomplete-suggestion" data-name="'+item.SKU+'" data-val="'+search+'">'+item.ModelDescription.replace(re, "<b>$1<\/b>")+'<\/div>';
+  },
+  onSelect: function(e, term, item){
+    e.preventDefault(); // stop form submission when pressing return / enter
+    document.querySelector('#mobile-search').value = item.getAttribute('data-name');
+    var closestForm = document.querySelector('#mobile-search').closest('form');
+    //console.log(closestForm);
+    closestForm.submit();
+  }
+  });
+  // ]]>
+  </script>
+<script data-order-session-id="aHR0cHM6Ly93d3cud29vZGNvY2tzLnVz" defer="" id="sig-api" src="https://cdn-scripts.signifyd.com/api/script-tag.js" type="text/javascript"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const subscribeForms = document.querySelectorAll(".subscribe-form");
+    const subscribeSuccess = document.querySelectorAll(".email-signup-success");
+    const emailSignup = localStorage.getItem("woodcocks_emailSignup");
+
+    function displaySuccessMessage() {
+        subscribeForms.forEach(function(form) {
+            form.parentElement.classList.add("hidden");
+            subscribeSuccess.forEach(function(success) {
+                success.classList.remove("hidden");
+            });
+        });
+    }
+
+    if (emailSignup) {
+        const emailSignupResult = JSON.parse(emailSignup);
+
+        if (emailSignupResult.success) {
+            displaySuccessMessage();    
+        }
+    }
+
+    subscribeForms.forEach(function(form) {
+        form.addEventListener('submit', function (e) {
+
+            fetch("/_site-files/pages/email-savings/ajax.php", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "X-Requested-With": "XMLHttpRequest",
+                },
+                body: JSON.stringify({
+                    email: form.querySelector("input[type='email']").value,
+                }),
+            }).then(function (resp) {
+                return resp.json();
+            }).then(function (data) {
+                if (data.ok) {
+                    displaySuccessMessage();
+                    localStorage.setItem("woodcocks_emailSignup", JSON.stringify({
+                        success: true,
+                    }));
+                }
+            });
+            e.preventDefault();
+        });
+
+    });
+    try {
+        document.querySelector('.email-mobile-newsletter-signup').addEventListener('click', function(e) {
+            var mobile = document.querySelector('input[name="mobile-num"]').value;
+            var email = document.querySelector('input[name="email-address"]').value;
+
+            if(email.length > 0 && mobile.length > 0) {
+				fetch("/_site-files/pages/email-savings/ajax.php", {
+					method: "POST",
+					headers: {
+					"Content-Type": "application/json",
+					"X-Requested-With": "XMLHttpRequest",
+					},
+					body: JSON.stringify({
+						email: email,
+						mobile: mobile
+					}),
+				}).then(function (resp) {
+					return resp.json();
+				}).then(function (data) {
+					if (data.ok) {
+						displaySuccessMessage();
+						localStorage.setItem("woodcocks_emailSignup", JSON.stringify({
+							success: true,
+						}));
+					}
+				});
+				e.preventDefault();
+            }
+        });
+    }
+    catch(e) {
+        //Nothing to manage here
+    }
+});
+</script>
+<div class="opacity-100 top-0 left-0 m-0 p-0 border-none fixed w-full h-full overflow-hidden rounded" id="woodcocksTransparentOverlay" style="background-color: rgba(0, 0, 0, 0.55); z-index: 99999905; display: none;"></div>
+<div class="top-0 left-0 border-none absolute w-full h-auto bg-transparent m-0 rounded p-4" id="woodcocksNotificationSuccess" style="z-index: 99999910; color: #3c763d; display: none;">
+<div class="h-auto overflow-visible relative w-full p-0 m-0" style="z-index: 99999915;">
+<div class="mt-14 top-0 lecmsSidebart-0 opacity-100 relative w-full m-0 p-0 border-none">
+<div class="relative w-full md:w-1/2 my-0 mx-auto" style="max-width: 1280px;">
+<div class="p-0.5 rounded relative" style="background-color: #d6e9e6;">
+<div class="top-3 right-3 absolute" style="z-index: 99999991;">
+<a class="w-4 h-4 block bg-no-repeat no-underline opacity-75 font-medium bg-transparent js-close" href="#" style="background-image: url('/_site-files/img/global/Interface-43_black.svg'); background-size: 16px 16px; transition: opacity linear .2s 0s; transition: opacity linear .2s 0s; color: #2b542c;"></a>
+</div>
+<div class="relative tracking-normal">
+<div class="pt-5 px-10 pb-4 rounded" style="background-color: #dff0d8; color: #3c763d;">
+<div class="js-content"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="top-0 left-0 border-none absolute w-full h-auto bg-transparent m-0 rounded p-4" id="woodcocksNotificationError" style="z-index: 99999910; color: #f2dede; display: none;">
+<div class="h-auto overflow-visible relative w-full p-0 m-0" style="z-index: 99999915;">
+<div class="mt-14 top-0 left-0 opacity-100 relative w-full m-0 p-0 border-none">
+<div class="relative w-full md:w-1/2 my-0 mx-auto" style="max-width: 1280px;">
+<div class="p-0.5 rounded relative" style="background-color: #d6e9e6;">
+<div class="top-3 right-3 absolute" style="z-index: 99999991;">
+<a class="w-4 h-4 block bg-no-repeat no-underline opacity-75 font-medium bg-transparent js-close" href="#" style="background-image: url('/_site-files/img/global/Interface-43_black.svg'); background-size: 16px 16px; transition: opacity linear .2s 0s; transition: opacity linear .2s 0s; color: #a94442;"></a>
+</div>
+<div class="relative tracking-normal">
+<div class="pt-5 px-10 pb-4 rounded" style="background-color: #f2dede; color: #a94442;">
+<div class="js-content"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="top-0 left-0 border-none fixed w-full h-auto bg-transparent m-0 rounded p-4 woodcocks-content-overlay" id="woodcocksContentOverlay" style="z-index: 99999910; color: #3c763d; display: none;">
+<div class="h-auto overflow-visible relative w-full p-0 m-0" style="z-index: 99999915;">
+<div class="mt-14 top-0 left-0 opacity-100 relative w-full m-0 p-0 border-none">
+<div class="relative w-full md:w-1/2 my-0 mx-auto js-overlay-inside" style="max-width: 1280px;">
+<div class="p-0.5 rounded relative" style="background-color: #d6e9e6;">
+<div class="top-3 right-3 absolute" style="z-index: 99999991;">
+<a class="w-4 h-4 block bg-no-repeat no-underline opacity-75 font-medium bg-transparent js-close" href="#" style="background-image: url('/_site-files/img/global/Interface-43_black.svg'); background-size: 16px 16px; transition: opacity linear .2s 0s; transition: opacity linear .2s 0s; color: #2b542c;"></a>
+</div>
+<div class="relative tracking-normal bg-white">
+<div class="pt-5 px-10 pb-4 rounded">
+<div class="overflow-scroll js-content" style="max-height: calc(100vh - 9rem);"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fixed flex bottom-1/4 lg:bottom-1/3 rounded-full justify-center items-center w-16 h-16 right-10" style="background-color: #0c9;">
+<a href="https://wa.me/+13054873402" target="_blank"><svg class="fill-white animation-beat-fade" height="2em" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg></a>
+</div>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function () {
+        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/5e713fc58d24fc22658839ed/default';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+    </script>
+<!--End of Tawk.to Script-->
+<template id="woodcocksContactForm">
+<div class="contact-form-wrapper">
+<h3>Contact Form</h3>
+<p>
+                Fields marked with an asterisk (<em class="required">*</em>) are required.
+            </p>
+<form action="" class="pure-form pure-form-aligned" enctype="application/x-www-form-urlencoded" method="POST">
+<fieldset>
+<div class="pure-control-group">
+<label for="ContactName">Name: <em class="required">*</em></label>
+<input aria-required="true" class="required" id="ContactName" name="Name" required="" type="text"/>
+</div>
+<div class="pure-control-group">
+<label class="required" for="ContactEmail">Email: <em class="required">*</em></label>
+<input aria-required="true" class="required" id="ContactEmail" name="Email" required="" type="email"/>
+</div>
+<div class="pure-control-group">
+<label class="required" for="ContactZip_Code">Zip: <em class="required">*</em></label>
+<input aria-required="true" class="required" id="ContactZip_Code" name="Zip_Code" required="" type="text"/>
+</div>
+<div class="pure-control-group">
+<label for="ContactMessage">Question: <em class="required">*</em></label>
+<textarea aria-required="true" class="required" cols="30" id="ContactMessage" name="Message" required="" rows="6"></textarea>
+</div>
+</fieldset>
+<fieldset>
+<legend>Optional Information</legend>
+<div class="pure-control-group">
+<label for="ContactPhone">Phone:</label>
+<input id="ContactPhone" name="Phone" type="tel"/>
+</div>
+<div class="pure-control-group">
+<label for="ContactMobile">Mobile:</label>
+<input id="ContactMobile" name="Mobile" type="tel"/>
+</div>
+</fieldset>
+<fieldset>
+<legend>Captcha</legend>
+<div class="pure-controls">
+<div class="recaptcha-wrapper"></div>
+</div>
+</fieldset>
+<fieldset>
+<div class="pure-controls">
+<button class="pure-button pure-button-red submit-button" disabled="" type="submit">Submit</button>
+<button class="pure-button pure-button-white cancel-button" type="button">Cancel</button>
+</div>
+</fieldset>
+</form>
+</div>
+</template>
+<template id="woodcocksContactSubmissionSuccess">
+<p>Thank you, your message has been successfully submitted. We will be in touch shortly.</p>
+</template>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const transparentOverlay = Woodcocks.UI.TransparentOverlay.init(
+            document.getElementById("woodcocksTransparentOverlay")
+        );
+        const contentOverlay = Woodcocks.UI.ContentOverlay.init(
+            document.getElementById("woodcocksContentOverlay")
+        );
+        const contactFormTemplate = document.getElementById(
+            "woodcocksContactForm"
+        );
+        const successMessageTemplate = document.getElementById(
+            "woodcocksContactSubmissionSuccess"
+        );
+        const successNotification = Woodcocks.UI.SuccessNotification.init(
+            document.getElementById("woodcocksNotificationSuccess")
+        );
+        const errorNotification = Woodcocks.UI.ErrorNotification.init(
+            document.getElementById("woodcocksNotificationError")
+        );
+        transparentOverlay.listen([
+            "woodcocks:notification:closed",
+            "woodcocks:content-overlay:closed",
+        ]);
+        const mobileMenuCloseBtn = document.getElementById("p7DDMtc_10");
+        const mql = window.matchMedia("(max-width: 899px)");
+        document.body.addEventListener("click", function (event) {
+            if (!event.target.matches(".js-contact-us")) {
+                return;
+            }
+
+            event.preventDefault();
+
+            if (mql.matches) {
+                mobileMenuCloseBtn.click();
+            }
+
+            const contentClone = contactFormTemplate.content.cloneNode(
+                true
+            );
+            const successMessageClone = successMessageTemplate.content
+                .cloneNode(true);
+            Woodcocks.Forms.Inputs.PhoneNumber.create(
+                contentClone.querySelector("#ContactPhone")
+            );
+            Woodcocks.Forms.Inputs.PhoneNumber.create(
+                contentClone.querySelector("#ContactMobile")
+            );
+            contentOverlay.setContent(contentClone);
+            transparentOverlay.show();
+            contentOverlay.show();
+            const form = contentOverlay.find("form");
+            const submitBtn = contentOverlay.find(".submit-button");
+            const cancelBtn = contentOverlay.find(".cancel-button");
+            const recaptchaWrapper = contentOverlay.find(
+                ".recaptcha-wrapper"
+            )
+            let grecaptchaResp;
+            grecaptcha.render(recaptchaWrapper, {
+                sitekey: "6LelXxcTAAAAAAAjxgXiFpSZcV0fuo7zt85cl43G",
+                callback: function (resp) {
+                    console.log(resp);
+                    grecaptchaResp = resp;
+                    submitBtn.disabled = false;
+                },
+            });
+            form.addEventListener("submit", function (event) {
+                event.preventDefault();
+
+                if (!grecaptchaResp) {
+                    return;
+                }
+
+                let formData = i8_serializeForm(form);
+                formData += "&xhr=1";
+                const xhr = new XMLHttpRequest();
+                xhr.open(
+                    "POST",
+                    "/_site-files/form-target-files/customer-inquiry.php"
+                );
+                xhr.setRequestHeader(
+                    "Content-Type",
+                    "application/x-www-form-urlencoded"
+                );
+                xhr.onreadystatechange = function () {
+                    if (xhr.readyState !== 4 ) return;
+
+                    if (xhr.status === 200 ) {
+                        console.log(xhr);
+
+                        const resp = JSON.parse(xhr.responseText);
+                        const result = resp.result.toLowerCase();
+
+                        if (result.indexOf("success") > -1) {
+                            form.reset();
+                            contentOverlay.hide();
+                            contentOverlay.removeContent();
+
+                            if (mql.matches) {
+                                window.scrollTo({
+                                    top: 0,
+                                    behavior: "smooth"
+                                });
+                            }
+
+                            successNotification.setContent(
+                                successMessageClone
+                            );
+                            successNotification.show()
+                                .then(function () {
+                                    transparentOverlay.hide();
+                                });
+                        } else {
+                            form.reset();
+                            contentOverlay.hide();
+                            contentOverlay.removeContent();
+
+                            if (mql.matches) {
+                                window.scrollTo({
+                                    top: 0,
+                                    behavior: "smooth"
+                                });
+                            }
+
+                            let listItems = "";
+                            const list = document.createElement("ul");
+                            resp.error.forEach(function (item) {
+                                listItems += item;
+                            });
+                            list.innerHTML = listItems;
+                            errorNotification.setContent(list);
+                            errorNotification.show()
+                                .then(function () {
+                                    transparentOverlay.hide();
+                                });
+                        }
+                    }
+                };
+                xhr.send(encodeURI(formData));
+            });
+
+            cancelBtn.addEventListener("click", function () {
+                form.reset();
+                contentOverlay.hide();
+                contentOverlay.removeContent();
+                transparentOverlay.hide();
+            });
+        });
+
+    });
+    </script>
+<!--Email SignUp Popup-->
+<div id="overlay"></div>
+<div id="popup">
+<div id="close-btn">
+<div class="close-icon">×</div>
+</div>
+<div class="pure-u-1 flex justify-center" style="background-color: #26252c;">
+<img alt="Lifestyle Image" loading="lazy" src="https://www.woodcocks.us/uploads/files/lifestyle-image.png" style="max-width: 100%; height: auto;"/>
+</div>
+<div class="pure-u-1 flex justify-center" id="mce-success-response" style="display: none; background-color: #26252c;">
+<div class="coupon">
+<div class="email-signup-success text-white">
+<h2>Thank You for Subscribing!</h2>
+<p>YOUR OFFER:</p>
+<h3>Receive <span style="color:red; font-weight:bold;">$20 OFF</span> your purchase</h3>
+<p>OF $500 OR MORE *</p>
+<p class="promo-code">Promo Code: tyfs20</p>
+<p style="text-decoration: underline; margin-top: 14px !important"><small>*Cannot be used with any other discount.</small></p>
+</div>
+</div>
+</div>
+<div class="pure-u-1 flex justify-center" style="background-color: #26252c;">
+<form action="https://woodcocks.us21.list-manage.com/subscribe/post?u=07360fefb54de3679bba82bf4&amp;id=3a65e79744&amp;f_id=007dfde6f0" class="pure-form pure-g pure-g-centered validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" style="padding: 16px; text-align: center; justify-content: center;" target="_blank">
+<div class="pure-u-1">
+<h2 class="text-white">Subscribe To Woodcocks</h2>
+<p class="text-white">and receive $20 OFF your purchase and gain access to exclusive deals, offers, and more.</p>
+</div>
+<div class="pure-u-13-24 flex justify-between items-center mc-field-group">
+<input class="w-full m-0 required email" id="mce-EMAIL" name="EMAIL" placeholder="Email Address *" required="" type="email" value=""/>
+<div hidden=""><input name="tags" type="hidden" value="2980044"/></div>
+</div>
+<div class="pure-u-1-11-24 flex justify-between items-center">
+<button class="w-full text-white ml-2.5" id="mc-embedded-subscribe" name="subscribe" style="margin: 0 0 0 0.625rem" type="submit" value="Subscribe">Subscribe</button>
+</div>
+<div class="clear" id="mce-responses">
+<div class="response" id="mce-error-response" style="display: none; letter-spacing: 0px; color:#be1515;"></div>
+</div>
+<div class="pure-u-1 text-white" style="text-decoration: underline; margin-top: 15px;">
+<p onclick="mc.closePopup()">MAYBE LATER</p>
+</div>
+</form>
+</div>
+</div>
+<!-- JavaScript to open the e-mail sign up popup after 5 seconds -->
+<!-- <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script> -->
+<script src="/_scr/mc-validate.js" type="text/javascript"></script>
+<script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script>try{mc.evalPopup()}catch(e){console.error("An error occurred while executing mc.evalPopup():",e)}</script>
+</div></body>
+</html>

@@ -1,0 +1,94 @@
+2025-05-29 12:32:55,876:__main__:Selenium triggered
+2025-05-29 12:57:59,444:__main__:Selenium triggered
+2025-05-29 13:01:46,385:__main__:Request failed on page 31: 404 Client Error: Not Found for url: https://www.woodcocks.us/refrigeration/french-door/?pageNum_rsDataSet=31&filter=1&view=list&hl=en-US&gl=us
+2025-05-29 13:01:46,391:__main__:Total 467 products found for https://www.woodcocks.us/refrigeration/french-door/.
+2025-05-29 13:23:57,375:__main__:Request failed on page 31: 404 Client Error: Not Found for url: https://www.woodcocks.us/refrigeration/french-door/?pageNum_rsDataSet=31&filter=1&view=list&hl=en-US&gl=us
+2025-05-29 13:23:57,395:__main__:Total 467 products found for https://www.woodcocks.us/refrigeration/french-door/.
+2025-05-29 13:52:44,005:__main__:Product main not found: https://www.woodcocks.us/refrigeration/specialty/beverage-coolers/ARXE42#reviews
+2025-05-29 13:52:44,014:__main__:Finished ThreadMain in 2.5 second(s)
+2025-05-29 13:55:13,389:__main__:Product main not found: https://www.woodcocks.us/refrigeration/specialty/beverage-coolers/ARXE42#reviews
+2025-05-29 13:55:13,394:__main__:Finished ThreadMain in 2.14 second(s)
+2025-05-29 14:02:42,624:__main__:Finished ThreadMain in 2.17 second(s)
+2025-05-29 14:03:43,387:__main__:Finished ThreadMain in 2.43 second(s)
+2025-05-29 14:19:00,714:__main__:Finished ThreadMain in 2.47 second(s)
+2025-05-29 14:29:53,365:__main__:Finished ThreadMain in 2.37 second(s)
+2025-05-29 15:35:04,196:__main__:Finished ThreadMain in 3.46 second(s)
+2025-05-29 15:43:34,393:__main__:Finished ThreadMain in 2.33 second(s)
+2025-05-29 15:44:08,225:__main__:Finished ThreadMain in 2.29 second(s)
+2025-05-29 15:45:25,342:__main__:Finished ThreadMain in 2.38 second(s)
+2025-05-29 15:46:44,275:__main__:Finished ThreadMain in 2.31 second(s)
+2025-05-29 15:47:48,319:__main__:Finished ThreadMain in 2.67 second(s)
+2025-05-29 15:54:22,428:__main__:Total 467 products found in producturls.txt.
+2025-05-29 15:54:30,144:__main__:Product main not found: https://retailservices.wellsfargo.com/pl/2176066082
+2025-05-29 16:04:59,536:__main__:Total 467 products found in producturls.txt.
+2025-05-29 16:05:06,379:__main__:Product main not found: https://retailservices.wellsfargo.com/pl/2176066082
+2025-05-29 16:14:49,229:__main__:Total 467 products found in producturls.txt.
+2025-05-29 16:14:56,373:__main__:Product main not found: https://retailservices.wellsfargo.com/pl/2176066082
+2025-05-29 16:18:09,877:__main__:Total 467 products found in producturls.txt.
+2025-05-29 16:18:17,481:__main__:Product main not found: https://retailservices.wellsfargo.com/pl/2176066082
+2025-05-29 16:21:15,513:__main__:Total 467 products found in producturls.txt.
+2025-05-29 16:21:22,522:__main__:Product main not found: https://retailservices.wellsfargo.com/pl/2176066082
+2025-05-29 16:27:57,188:__main__:Total 466 products found in producturls.txt.
+2025-05-29 16:28:20,489:__main__:90520 >> MySQL ERROR checkInsertBrand() >> 2003: Can't connect to MySQL server on '157.245.132.95:3306' (Errno 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond)
+2025-05-29 16:28:20,490:__main__:90520, Haier
+2025-05-29 16:28:20,491:__main__:Error in insertIntoMsp: cannot access local variable 'conn' where it is not associated with a value
+2025-05-29 16:28:41,521:__main__:Error in insertall(): cannot access local variable 'conn' where it is not associated with a value
+2025-05-29 16:29:04,861:__main__:Error in insertIntoMsp: cannot access local variable 'conn' where it is not associated with a value
+2025-05-29 16:29:25,907:__main__:Error in insertall(): cannot access local variable 'conn' where it is not associated with a value
+2025-05-29 16:34:40,886:__main__:Total 466 products found in producturls.txt.
+2025-05-29 16:35:04,259:__main__:90520 >> MySQL ERROR checkInsertBrand() >> 2003: Can't connect to MySQL server on '157.245.132.95:3306' (Errno 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond)
+2025-05-29 16:35:04,259:__main__:90520, Haier
+2025-05-29 16:35:04,260:__main__:Error in insertIntoMsp: cannot access local variable 'conn' where it is not associated with a value
+2025-05-29 17:25:11,006:__main__:Total 466 products found in producturls.txt.
+2025-05-29 17:25:19,617:__main__:90520 >> Found brand synonym: Haier (1155)
+2025-05-29 17:25:23,879:__main__:90520 >> Updated details for product with mpn "QHE16HYPFS (341278)".
+2025-05-29 17:25:27,274:__main__:90520 >> MySQL ERROR checkInsertProductVendor() >> 1265 (01000): Data truncated for column 'msrp' at row 1
+2025-05-29 17:25:27,515:__main__:90520 >> Invalid vendor_product_id: None
+2025-05-29 17:25:27,534:__main__:Error in insertIntoMsp: cannot access local variable 'conn' where it is not associated with a value
+2025-05-29 17:25:30,786:__main__:MySQL ERROR vendorTempPricing() >> 1048 (23000): Column 'vendor_product_id' cannot be null
+2025-05-29 17:25:38,347:__main__:Missing columns: [('generating_products', "enum('0','1','2')", 'NO', '', '0', '', 'is_rp_calculated')]
+2025-05-29 17:25:38,347:__main__:History Table is up-to-date.
+2025-05-29 17:25:38,845:__main__:Table z_90520_VendorPricing altered successfully.
+2025-05-29 17:25:38,846:__main__:==========================================
+2025-05-29 17:25:39,577:__main__:MySQL ERROR z_90520_VendorPricing >> 1048 (23000): Column 'vendor_product_id' cannot be null
+2025-05-29 17:25:43,147:__main__:341278 >> MySQL ERROR productMsrpUpdate() >> 1265 (01000): Data truncated for column 'msrp' at row 1
+2025-05-29 17:25:52,154:__main__:90520 >> Found brand synonym: Haier (1155)
+2025-05-29 17:25:56,331:__main__:90520 >> Updated details for product with mpn "QJS15HYRFS (370754)".
+2025-05-29 17:25:59,767:__main__:90520 >> MySQL ERROR checkInsertProductVendor() >> 1265 (01000): Data truncated for column 'msrp' at row 1
+2025-05-29 17:25:59,998:__main__:90520 >> Invalid vendor_product_id: None
+2025-05-29 17:25:59,999:__main__:Error in insertIntoMsp: cannot access local variable 'conn' where it is not associated with a value
+2025-05-29 17:26:03,177:__main__:MySQL ERROR vendorTempPricing() >> 1048 (23000): Column 'vendor_product_id' cannot be null
+2025-05-29 17:26:10,750:__main__:History Table is up-to-date.
+2025-05-29 17:26:11,435:__main__:MySQL ERROR z_90520_VendorPricing >> 1048 (23000): Column 'vendor_product_id' cannot be null
+2025-05-29 17:26:14,860:__main__:370754 >> MySQL ERROR productMsrpUpdate() >> 1265 (01000): Data truncated for column 'msrp' at row 1
+2025-05-29 17:26:24,173:__main__:90520 >> Found brand synonym: Samsung (69)
+2025-05-29 17:26:28,489:__main__:90520 >> Updated details for product with mpn "RF18A5101S9 (341702)".
+2025-05-29 17:26:32,207:__main__:90520 >> Updated details for vendor_product_id (4195857).
+2025-05-29 17:26:32,208:__main__:90520 >> Returned vendor_product_id (4195857).
+2025-05-29 17:26:36,081:__main__:90520 >> Updated product vendor URL for vendor_product_id "4195857".
+2025-05-29 17:26:39,743:__main__:Record Inserted for vendor_product_id (4195857) and source (direct_from_website)
+2025-05-29 17:26:47,117:__main__:History Table is up-to-date.
+2025-05-29 17:26:48,028:__main__:Record Inserted for vendor_product_id (4195857) and source (direct_from_website) In z_90520_VendorPricing history table.
+2025-05-29 17:27:00,011:__main__:90520 >> Found brand synonym: Samsung (69)
+2025-05-29 17:27:04,358:__main__:90520 >> Updated details for product with mpn "RF18A5101SG (341461)".
+2025-05-29 17:27:08,214:__main__:90520 >> Added new product in ProductVendor "90520 x 341461".
+2025-05-29 17:27:11,674:__main__:90520 >> Added product vendor URL for vendor_product_id "4259113".
+2025-05-29 17:27:15,361:__main__:Record Inserted for vendor_product_id (4259113) and source (direct_from_website)
+2025-05-29 17:27:23,581:__main__:History Table is up-to-date.
+2025-05-29 17:27:24,592:__main__:Record Inserted for vendor_product_id (4259113) and source (direct_from_website) In z_90520_VendorPricing history table.
+2025-05-29 17:27:37,182:__main__:90520 >> Found brand synonym: Samsung (69)
+2025-05-29 17:27:41,309:__main__:90520 >> Updated details for product with mpn "RF18A5101SR (341301)".
+2025-05-29 17:27:45,203:__main__:90520 >> Updated details for vendor_product_id (4191499).
+2025-05-29 17:27:45,203:__main__:90520 >> Returned vendor_product_id (4191499).
+2025-05-29 17:27:48,781:__main__:90520 >> Updated product vendor URL for vendor_product_id "4191499".
+2025-05-29 17:27:52,697:__main__:Record Inserted for vendor_product_id (4191499) and source (direct_from_website)
+2025-05-29 17:28:00,276:__main__:History Table is up-to-date.
+2025-05-29 17:28:01,271:__main__:Record Inserted for vendor_product_id (4191499) and source (direct_from_website) In z_90520_VendorPricing history table.
+2025-05-29 17:28:13,185:__main__:90520 >> Found brand synonym: Frigidaire (75)
+2025-05-29 17:28:17,333:__main__:90520 >> Updated details for product with mpn "FRFG1723AV (341220)".
+2025-05-29 17:28:20,745:__main__:90520 >> MySQL ERROR checkInsertProductVendor() >> 1265 (01000): Data truncated for column 'msrp' at row 1
+2025-05-29 17:28:20,973:__main__:90520 >> Invalid vendor_product_id: None
+2025-05-29 17:28:20,974:__main__:Error in insertIntoMsp: cannot access local variable 'conn' where it is not associated with a value
+2025-05-29 17:28:24,248:__main__:MySQL ERROR vendorTempPricing() >> 1048 (23000): Column 'vendor_product_id' cannot be null
+2025-05-29 17:28:31,712:__main__:History Table is up-to-date.
+2025-05-29 17:28:32,409:__main__:MySQL ERROR z_90520_VendorPricing >> 1048 (23000): Column 'vendor_product_id' cannot be null
