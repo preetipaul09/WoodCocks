@@ -144,7 +144,7 @@ def getAllProUrl(category_url):
 
         soup = BeautifulSoup(response.text, 'html.parser')
         products = soup.select('div.product-listing-grid div.product-list-box a')
-
+        count_before = len(product_urls)
         if not products:
             logger.debug(f"No products found on page {pageNumber} for {url}.")
             break
@@ -158,7 +158,12 @@ def getAllProUrl(category_url):
                     with open("productUrls(preeti).txt", "a", encoding="utf-8") as f:
                         f.write(product_url + '\n')
 
-        print(f"[Page {pageNumber}] Total unique product URLs found so far: {len(product_urls)}")
+        count_after = len(product_urls)
+        if count_after == count_before:
+            print(f"No new products found on page {pageNumber}. Assuming end of listing.")
+            break
+
+        print(f"[Page {pageNumber}] Total unique product URLs found so far: {count_after}")
 
         pageNumber += 1
         if pageNumber == 50:
